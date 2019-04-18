@@ -11,22 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Computer Science and Engineering, The National Institute of Engineering, Mysuru, INDIA (Pursuing)
+* M.Tech. in Computer Science and Engineering, KLS Gogte Institute of Technology, Belagavi, INDIA, 2013
+* B.E. in Computer Science and Engineering, KLS Gogte Institute of Technology, Belagavi, INDIA, 2008
+* Diploma in Information Science and Engineering, KLS Shri Vasantrao Potdar Polytechnic, Belagavi, INDIA, 2004
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* September 2013 - till date: Assistant Professor
+  * Department of Computer Science and Engineering, KLS Gogte Institute of Technology, Belagavi, INDIA
   
+* July 2008 - August 2013: Lecturer
+  * Department of Computer Science and Engineering, KLS Gogte Institute of Technology, Belagavi, INDIA
+    
 Skills
 ======
 * Skill 1
