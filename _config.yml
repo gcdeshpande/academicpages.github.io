@@ -82,19 +82,19 @@ analytics:
 author:
   name             : "Gajendra Deshpande"
   avatar           : "gcd.png"
-  bio              : "Assistant Professor, Department of Computer Science and Engineering, KLS Gogte Institute of Technology"
-  location         : "INDIA"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  bio              : "Freelance cyber security consultant, web designer, and Teacher"
+  location         : "Belagavi, India"
+  employer         : "KLS Gogte Institute of Technology, India"
+ 
+  googlescholar    : "https://scholar.google.co.in/citations?user=yl0uzFsAAAAJ&h"
+  email            : "gcdeshpande@hotmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/gcdeshpande"
   foursquare       :
   github           : "gcdeshpande"
   google_plus      :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/gajendradeshpande/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "gcdeshpande"
   vine             :
   weibo            :
   xing             :
