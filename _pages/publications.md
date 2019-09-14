@@ -6,7 +6,7 @@ author_profile: true
 ---
 Deshpande G., Kulkarni S. (2019) Modeling and Mitigation of XPath Injection Attacks for Web Services Using Modular Neural Networks. In: Sa P., Bakshi S., Hatzilygeroudis I., Sahoo M. (eds) Recent Findings in Intelligent Computing Techniques. Advances in Intelligent Systems and Computing, vol 707. Springer, Singapore. Presented at ICACNI 2017, National Institute of Technology, Goa, India
 
-title: "Posters"
+<h1>Posters</h1>
 
 Gajendra C. Deshpande, Dr. S.A.Kulkarni, “Multi Agent Cognitive Architecture for Secure Computation in Internet of Things”, Scipy 2019, University of Texas, Austin, Texas, USA 
 
