@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Subjects Handling/Handled (UG)
+<h2>Subjects Handling/Handled (UG)</h2>
   * Information and Network Security (VIII Semester)
   * Artificial Intelligence (VII Semester)
   * Machine Learning (VI Semester)
@@ -20,14 +20,14 @@ Subjects Handling/Handled (UG)
   * Computer Concepts and C Programming (I/II Semester)
   
 
-Subjects Handling/Handled (PG)
+<h2>Subjects Handling/Handled (PG)</h2>
   * Artificial Intelligence and Agent Technology (II Semester)
   * Cloud Computing (I Semester)
   * Formal Models in Computer Science
   * Advances in Operating Systems
 
 
-Subjects Handled (Other)
+<h2>Subjects Handled (Other)</h2>
   * Cyber Crime and Computer Forensics (Honors Program)
   * Advanced Java (For KSOU Students)
   * Management Information Systems (For BBA Students)
