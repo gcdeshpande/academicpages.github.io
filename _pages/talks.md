@@ -4,6 +4,7 @@ title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
+*	One Day Workshop, “Python Programming”, GSS College, Belagavi
 *	Three Day Workshop, “Applications of Internet of Things”, KLSVPP, Belagavi
 *	One Day workshop, “Network Programming”, GSS College Belagavi
 *	One day workshop, “Essence of Software Project Development Life Cycle”, GIT Belagavi
