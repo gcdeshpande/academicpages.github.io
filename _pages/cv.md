@@ -30,6 +30,10 @@ Work experience
     
 Service and leadership
 ======
+* Reviewer: Scipy 2020 USA, Scipy 2019, USA
+* Mentor: First time speakers JuliaCon 2020, Portugal
+* Reviewer, Journal of Open Source Software(JOSS)
+* Reviewer, Journal of Open Source Education(JOSE)
 * Treasurer, Gangadharrao Deshpande Memorial Committee, Belagavi
 * Organizing Co-Chair Free and Open Source Software Conference - FOSSCon India 2019
 * Organizer, PyData Belagavi Chapter
