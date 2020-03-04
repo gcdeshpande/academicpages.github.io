@@ -5,6 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 <h1>Talks</h1>
+* Delivered a talk on "How to Make Contribution to Python Community", at Python Open Discussion Forum, organized jointly PyData Belagavi ans International Society for Automation Student Club, KLS GIT, Belagavi
 * Delivered a talk on "Computation Techniques for Encrypted Data", PyCon FR 2019, University of Bordeaux, France 
 * Delivered a talk on "Brain Computer Interface meets Internet of Things", JuliaCon 2018, University College, London, UK
 * Delivered a talk on "Implementation of Multi Agent System for Computation over Cipher Text for Internet of Things", Scipy India 2018, Indian Institute of Technology, Bombay, India
@@ -15,10 +16,12 @@ author_profile: true
 *	Alumni Meet 2011, “Opportunities in Higher Education”, KLSVPP, Belagavi
 
 <h1>Workshops</h1>
-*	One Day Workshop, “Python Programming”, GSS College, Belagavi
-*	One day workshop, “Essence of Software Project Development Life Cycle”, GIT Belagavi
+* One Day workshop on "Web Programming using Perl", GSS College, Belagavi
+*	One Day workshop, “Python Programming”, GSS College, Belagavi
+* One Day workshop "Web Programming, IDE and Tools", KLS GIT, Belagavi
+*	One day workshop, “Essence of Software Project Development Life Cycle”, KLS GIT Belagavi
 * One Day workshop, “Network Programming”, GSS College, Belagavi
-*	GATE 2013 training programme, “Web Programming”, GIT, Belagavi
-*	Two-day workshop, “HTML5″, GIT, Belagavi
-*	One day workshop, “Web Hosting”, GIT Belagavi
+*	GATE 2013 training programme, “Web Programming”, KLS GIT, Belagavi
+*	Two-day workshop, “HTML5″, KLS GIT, Belagavi
+*	One day workshop, “Web Hosting”,KLS GIT Belagavi
 
