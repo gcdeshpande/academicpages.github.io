@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 <h1>Talks</h1>
-* Delivered a talk on "How to Make Contribution to Python Community", at Python Open Discussion Forum, organized jointly PyData Belagavi ans International Society for Automation Student Club, KLS GIT, Belagavi
+* Delivered a talk on "How to Make Contribution to Python Community", at Python Open Discussion Forum, organized jointly by PyData Belagavi and International Society for Automation Student Club, KLS GIT, Belagavi
 * Delivered a talk on "Computation Techniques for Encrypted Data", PyCon FR 2019, University of Bordeaux, France 
 * Delivered a talk on "Brain Computer Interface meets Internet of Things", JuliaCon 2018, University College, London, UK
 * Delivered a talk on "Implementation of Multi Agent System for Computation over Cipher Text for Internet of Things", Scipy India 2018, Indian Institute of Technology, Bombay, India
