@@ -17,8 +17,8 @@ author_profile: true
 *	Alumni Meet 2011, “Opportunities in Higher Education”, KLSVPP, Belagavi
 
 <h1>Workshops</h1>
-* Resource person for three dat workshop on “Introduction to Python Programming and its Applications in Climate Smart Agriculture”, organized by Organized by ICAR-National Agricultural Higher Education Project (NAHEP), The Centre for Advanced Agricultural Science and Technology (CAAST), for Climate Smart Agriculture and Water Management (CSAWM) & The Rashtriya Krishi Vikas Yojana (RKVY) Project on
-Irrigation Water Requirement Advisory Service (IWRAS), Mahatma Phule Krishi Vidyapeeth (MPKV), Rahuri-413722, Ahmednagar (Maharashtra) (Upcoming in May 2020 - Online) 
+* Resource person for four day workshop on “Introduction to Python Programming and its Applications in Climate Smart Agriculture”, organized by ICAR-National Agricultural Higher Education Project (NAHEP), The Centre for Advanced Agricultural Science and Technology (CAAST), for Climate Smart Agriculture and Water Management (CSAWM) & The Rashtriya Krishi Vikas Yojana (RKVY) Project on
+Irrigation Water Requirement Advisory Service (IWRAS), Mahatma Phule Krishi Vidyapeeth (MPKV), Rahuri-413722, Ahmednagar (Maharashtra) 
 * Resource person for one day workshop on "Web Programming using Perl", GSS College, Belagavi
 *	Resource person for one day workshop, “Python Programming”, GSS College, Belagavi
 * Resource person for one day workshop "Web Programming, IDE and Tools", KLS GIT, Belagavi
