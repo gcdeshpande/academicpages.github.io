@@ -33,6 +33,7 @@ Service and leadership
 * Reviewer: Scipy 2020 USA, Scipy 2019 USA, JuliaCon 2020 Portugal, JuliaCon 2019 USA
 * Reviewer for Book proposals: Manning Publications, USA, Oxford University Press, India
 * Mentor: First time speakers JuliaCon 2020, Portugal
+* Mentor: Smart India Hackathon 2017, 2018, 2019 and 2020
 * Reviewer, Journal of Open Source Software(JOSS)
 * Reviewer, Journal of Open Source Education(JOSE)
 * Mentor, CloudTitans - A developer bootcamp organized by IncubateIND and DigitalOcean
