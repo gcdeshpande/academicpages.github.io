@@ -5,7 +5,8 @@ permalink: /talks/
 author_profile: true
 ---
 <h1>Talks</h1>
-* Upcoming Talk in May 2020, "Deceptive Security using Python", PyCon HK 2020, Hong Kong (to be held online)
+* Delivered a webinar on "Cyber Security: Technologies and Academic Opportunities", on June 12, 2020, organized by Karnataka Science and Technology Academy, Department of Science and Technology, Government of Karnataka
+* Delivered a talk on "Deceptive Security using Python", PyCon HK 2020, Hong Kong (Online)
 * Delivered a talk on "How to Make Contribution to Python Community", at Python Open Discussion Forum, organized jointly by PyData Belagavi and International Society for Automation Student Club, KLS GIT, Belagavi
 * Delivered a talk on "Computation Techniques for Encrypted Data", PyCon FR 2019, University of Bordeaux, France 
 * Delivered a talk on "Brain Computer Interface meets Internet of Things", JuliaCon 2018, University College, London, UK
@@ -17,6 +18,7 @@ author_profile: true
 *	Alumni Meet 2011, “Opportunities in Higher Education”, KLSVPP, Belagavi
 
 <h1>Workshops</h1>
+* (Upcoming) Resource person for two day online Faculty Development Program on "Introduction to Julia Language" on 2nd and 3rd July 2020. 
 * Resource person for four day workshop on “Introduction to Python Programming and its Applications in Climate Smart Agriculture”, organized by ICAR-National Agricultural Higher Education Project (NAHEP), The Centre for Advanced Agricultural Science and Technology (CAAST), for Climate Smart Agriculture and Water Management (CSAWM) & The Rashtriya Krishi Vikas Yojana (RKVY) Project on
 Irrigation Water Requirement Advisory Service (IWRAS), Mahatma Phule Krishi Vidyapeeth (MPKV), Rahuri-413722, Ahmednagar (Maharashtra) 
 * Resource person for one day workshop on "Web Programming using Perl", GSS College, Belagavi
