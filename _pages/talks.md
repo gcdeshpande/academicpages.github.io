@@ -5,6 +5,13 @@ permalink: /talks/
 author_profile: true
 ---
 <h1>Talks</h1>
+* (Upcoming) Talk, "Deceptive Security using Python", Conference on Open Source Coders Users and Promoters - COSCUP 2020 online, Taiwan
+* (Upcoming) Talk, "Inventing Curriculum with Julia and Pointer-Generator Network", Conference on Open Source Coders Users and Promoters - COSCUP 2020 online, Taiwan
+* (Upcoming) Talk, "Julia Code Generator for Flowgorithm Flow Chart Interpreter", Conference on Open Source Coders Users and Promoters - COSCUP 2020 online, Taiwan
+* (Upcoming) Lightning Talk, "Computation Techniques for Encrypted Data", JuliaCon 2020 online, Portugal 
+* (Upcoming) Lightning Talk, "Julia in Education for Generation Z", JuliaCon 2020 online, Portugal 
+* (Upcoming) Talk, "Inventing Curriculum with Julia and Pointer-Generator Network", JuliaCon 2020 online, Portugal 
+* (Upcoming) Talk, "Deceptive Security using Python", EuroPython 2020 Online, Ireland 
 * Delivered a webinar on "Cyber Security: Technologies and Academic Opportunities", on June 12, 2020, organized by Karnataka Science and Technology Academy, Department of Science and Technology, Government of Karnataka
 * Delivered a talk on "Deceptive Security using Python", PyCon HK 2020, Hong Kong (Online)
 * Delivered a talk on "How to Make Contribution to Python Community", at Python Open Discussion Forum, organized jointly by PyData Belagavi and International Society for Automation Student Club, KLS GIT, Belagavi
