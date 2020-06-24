@@ -5,11 +5,13 @@ permalink: /talks/
 author_profile: true
 ---
 <h1>Talks</h1>
+* (Upcoming) Talk, "Computation Techniques for Encrypted Data", PyCon TW 2020, Taiwan
 * (Upcoming) Talk, "Deceptive Security using Python", Conference on Open Source Coders Users and Promoters - COSCUP 2020 online, Taiwan
 * (Upcoming) Talk, "Inventing Curriculum with Julia and Pointer-Generator Network", Conference on Open Source Coders Users and Promoters - COSCUP 2020 online, Taiwan
 * (Upcoming) Talk, "Julia Code Generator for Flowgorithm Flow Chart Interpreter", Conference on Open Source Coders Users and Promoters - COSCUP 2020 online, Taiwan
 * (Upcoming) Lightning Talk, "Computation Techniques for Encrypted Data", JuliaCon 2020 online, Portugal 
 * (Upcoming) Lightning Talk, "Julia in Education for Generation Z", JuliaCon 2020 online, Portugal 
+* (Upcoming) Lightning Talk, "Python in Education for Generation Z", PyOhio 2020 online, USA
 * (Upcoming) Talk, "Inventing Curriculum with Julia and Pointer-Generator Network", JuliaCon 2020 online, Portugal 
 * (Upcoming) Talk, "Deceptive Security using Python", EuroPython 2020 Online, Ireland 
 * Delivered a webinar on "Cyber Security: Technologies and Academic Opportunities", on June 12, 2020, organized by Karnataka Science and Technology Academy, Department of Science and Technology, Government of Karnataka
