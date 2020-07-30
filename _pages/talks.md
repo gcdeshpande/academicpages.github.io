@@ -6,14 +6,19 @@ author_profile: true
 ---
 <h1>Talks</h1>
 * (Upcoming) Talk, "Computation Techniques for Encrypted Data", PyCon TW 2020, Taiwan
-* (Upcoming) Talk, "Deceptive Security using Python", Conference on Open Source Coders Users and Promoters - COSCUP 2020 online, Taiwan
-* (Upcoming) Talk, "Inventing Curriculum with Julia and Pointer-Generator Network", Conference on Open Source Coders Users and Promoters - COSCUP 2020 online, Taiwan
-* (Upcoming) Talk, "Julia Code Generator for Flowgorithm Flow Chart Interpreter", Conference on Open Source Coders Users and Promoters - COSCUP 2020 online, Taiwan
-* (Upcoming) Lightning Talk, "Computation Techniques for Encrypted Data", JuliaCon 2020 online, Portugal 
-* (Upcoming) Lightning Talk, "Julia in Education for Generation Z", JuliaCon 2020 online, Portugal 
-* (Upcoming) Lightning Talk, "Python in Education for Generation Z", PyOhio 2020 online, USA
-* (Upcoming) Talk, "Inventing Curriculum with Julia and Pointer-Generator Network", JuliaCon 2020 online, Portugal 
-* (Upcoming) Talk, "Deceptive Security using Python", EuroPython 2020 Online, Ireland 
+* (Upcoming) Talk, "Deceptive Security using Python", PyCon AU 2020 Online, Australia
+* (Upcoming) Talk, "Python and FOSS in Education for Generation Z", PyCon Korea 2020, online, Korea
+* (Upcoming) Talk, "Deceptive Security using Python", PiterPy online 2020, Russia
+* (Upcoming) Talk, "Deceptive Security using Python", PyCon Africa 2020, online, Africa
+* Delivered Lightning Talk, "Computation Techniques for Encrypted Data using Python", BuzzConf 2020 online, Argentina
+* Delivered Talk, "Deceptive Security using Python", Conference on Open Source Coders Users and Promoters - COSCUP 2020 online, Taiwan
+* Delivered Talk, "Inventing Curriculum with Julia and Pointer-Generator Network", Conference on Open Source Coders Users and Promoters - COSCUP 2020 online, Taiwan
+* Delivered Talk, "Julia Code Generator for Flowgorithm Flow Chart Interpreter", Conference on Open Source Coders Users and Promoters - COSCUP 2020 online, Taiwan
+* Delivered Lightning Talk, "Computation Techniques for Encrypted Data", JuliaCon 2020 online, Portugal 
+* Delivered Lightning Talk, "Julia in Education for Generation Z", JuliaCon 2020 online, Portugal 
+* Delivered Lightning Talk, "Python in Education for Generation Z", PyOhio 2020 online, USA
+* Delivered Talk, "Inventing Curriculum with Julia and Pointer-Generator Network", JuliaCon 2020 online, Portugal 
+* Delivered Talk, "Deceptive Security using Python", EuroPython 2020 Online, Ireland 
 * Delivered a webinar on "Cyber Security: Technologies and Academic Opportunities", on June 12, 2020, organized by Karnataka Science and Technology Academy, Department of Science and Technology, Government of Karnataka
 * Delivered a talk on "Deceptive Security using Python", PyCon HK 2020, Hong Kong (Online)
 * Delivered a talk on "How to Make Contribution to Python Community", at Python Open Discussion Forum, organized jointly by PyData Belagavi and International Society for Automation Student Club, KLS GIT, Belagavi
@@ -27,7 +32,8 @@ author_profile: true
 *	Alumni Meet 2011, “Opportunities in Higher Education”, KLSVPP, Belagavi
 
 <h1>Workshops</h1>
-* (Upcoming) Resource person for two day online Faculty Development Program on "Introduction to Julia Language" on 2nd and 3rd July 2020. 
+* (Upcoming) Resource person for two day online workshop on "Python Programming" for the students of Angadi Institute of Technology and Management, on 5th and 6th August 2020.
+* Resource person for two day online Faculty Development Program on "Introduction to Julia Language" on 21st and 22nd July 2020. 
 * Resource person for four day workshop on “Introduction to Python Programming and its Applications in Climate Smart Agriculture”, organized by ICAR-National Agricultural Higher Education Project (NAHEP), The Centre for Advanced Agricultural Science and Technology (CAAST), for Climate Smart Agriculture and Water Management (CSAWM) & The Rashtriya Krishi Vikas Yojana (RKVY) Project on
 Irrigation Water Requirement Advisory Service (IWRAS), Mahatma Phule Krishi Vidyapeeth (MPKV), Rahuri-413722, Ahmednagar (Maharashtra) 
 * Resource person for one day workshop on "Web Programming using Perl", GSS College, Belagavi
