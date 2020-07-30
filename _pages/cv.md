@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+Certification
+======
+* GitHub Certified Campus Advisor, June 2020
+
 Education
 ======
 * PG Diploma in Cyber Law and Cyber Forensics, National Law School of India University, Bengaluru, India, 2020
