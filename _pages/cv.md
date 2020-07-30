@@ -11,7 +11,6 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Computer Science and Engineering, The National Institute of Engineering, Mysuru, India (Pursuing)
 * PG Diploma in Cyber Law and Cyber Forensics, National Law School of India University, Bengaluru, India, 2020
 * M.Tech. in Computer Science and Engineering, KLS Gogte Institute of Technology, Belagavi, India, 2013
 * B.E. in Computer Science and Engineering, KLS Gogte Institute of Technology, Belagavi, India, 2008
@@ -30,7 +29,9 @@ Work experience
     
 Service and leadership
 ======
-* Reviewer: Scipy 2020 USA, Scipy 2019 USA, JuliaCon 2020 Portugal, JuliaCon 2019 USA
+* Volunteer, CFP team, PyCon India 2020
+* Volunteer, Interfaith Research Project, Parliament of World's Religions, USA
+* Reviewer: SciPy Japan 2020, JupyterCon 2020, Scipy 2020 USA, Scipy 2019 USA, JuliaCon 2020 Portugal, JuliaCon 2019 USA
 * Reviewer for Book proposals: Manning Publications, USA, Oxford University Press, India
 * Mentor: First time speakers JuliaCon 2020, Portugal
 * Mentor: Smart India Hackathon 2017, 2018, 2019 and 2020
