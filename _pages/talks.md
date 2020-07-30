@@ -11,6 +11,7 @@ author_profile: true
 * (Upcoming) Talk, "Deceptive Security using Python", PiterPy online 2020, Russia
 * (Upcoming) Talk, "Deceptive Security using Python", PyCon Africa 2020, online, Africa
 * Delivered Lightning Talk, "Computation Techniques for Encrypted Data using Python", BuzzConf 2020 online, Argentina
+* Delivered a Webinar, "What Makes a Website Look Professional", IEEE-GIT on 24th July 2020, India
 * Delivered Talk, "Deceptive Security using Python", Conference on Open Source Coders Users and Promoters - COSCUP 2020 online, Taiwan
 * Delivered Talk, "Inventing Curriculum with Julia and Pointer-Generator Network", Conference on Open Source Coders Users and Promoters - COSCUP 2020 online, Taiwan
 * Delivered Talk, "Julia Code Generator for Flowgorithm Flow Chart Interpreter", Conference on Open Source Coders Users and Promoters - COSCUP 2020 online, Taiwan
