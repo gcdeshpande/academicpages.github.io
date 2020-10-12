@@ -7,15 +7,23 @@ author_profile: true
 
 <h1>Talks</h1>
 * 03-October-2020, "Investigating Digital Crimes using Python", PyCon ES 2020 Pandemic Edition
+
 * 26-September-2020, "Python and FOSS in Education for Generation Z", PyCon Korea 2020, online, Korea
+
 * 19-September-2020, "Investigating Digital Crimes using Python", GirlScript Summit India 2020
+
 * 05-September-2020, "Computation Techniques for Encrypted Data", PyCon TW 2020, Taiwan
+
 * 04-September-2020, "Deceptive Security using Python", PyCon AU 2020 Online, Australia
 
-* "Deceptive Security using Python", PiterPy online 2020, Russia
-* "Deceptive Security using Python", PyCon Africa 2020, online, Africa
 * 20-August-2020, "Julia: An Introduction to new age programming language" at Vidya Vardhak College of Engineering, MySuru, India
+
+* 07-August-2020, "Deceptive Security using Python", PyCon Africa 2020, online, Africa
+
+* 06-August-2020, "Deceptive Security using Python", PiterPy online 2020, Russia
+
 * 24-July-2020, "What Makes a Website Look Professional", IEEE-GIT, India
+
 * "Deceptive Security using Python", Conference on Open Source Coders Users and Promoters - COSCUP 2020 online, Taiwan
 * "Inventing Curriculum with Julia and Pointer-Generator Network", Conference on Open Source Coders Users and Promoters - COSCUP 2020 online, Taiwan
 * "Julia Code Generator for Flowgorithm Flow Chart Interpreter", Conference on Open Source Coders Users and Promoters - COSCUP 2020 online, Taiwan
