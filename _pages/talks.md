@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 <h1>Interviews</h1>
-11-October-2020, "Teaching Online V/s Offline", Life Loosened Up, Episode 6 [YouTube Link](https://www.youtube.com/watch?v=gPB0Pmd_sAU)
+11-October-2020, "[Teaching Online V/s Offline](https://www.youtube.com/watch?v=gPB0Pmd_sAU)", Life Loosened Up, Episode 6 
 
 <h1>Talks</h1>
 
