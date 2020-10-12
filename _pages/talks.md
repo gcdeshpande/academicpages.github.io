@@ -4,8 +4,11 @@ title: "Talks and Workshops"
 permalink: /talks/
 author_profile: true
 ---
+<h1>Interviews</h1>
+11-October-2020, "Teaching Online V/s Offline", Life Loosened Up, Episode 6 [YouTube Link](https://www.youtube.com/watch?v=gPB0Pmd_sAU)
 
 <h1>Talks</h1>
+
 * 03-October-2020, "Investigating Digital Crimes using Python", PyCon ES 2020 Pandemic Edition
 
 * 26-September-2020, "Python and FOSS in Education for Generation Z", PyCon Korea 2020, online, Korea
