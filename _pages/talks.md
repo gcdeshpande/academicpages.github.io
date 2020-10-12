@@ -6,9 +6,12 @@ author_profile: true
 ---
 
 <h1>Talks</h1>
-* "Computation Techniques for Encrypted Data", PyCon TW 2020, Taiwan
-* "Deceptive Security using Python", PyCon AU 2020 Online, Australia
-* "Python and FOSS in Education for Generation Z", PyCon Korea 2020, online, Korea
+* 03-October-2020, "Investigating Digital Crimes using Python", PyCon ES 2020 Pandemic Edition
+* 26-September-2020, "Python and FOSS in Education for Generation Z", PyCon Korea 2020, online, Korea
+* 19-September-2020, "Investigating Digital Crimes using Python", GirlScript Summit India 2020
+* 05-September-2020, "Computation Techniques for Encrypted Data", PyCon TW 2020, Taiwan
+* 04-September-2020, "Deceptive Security using Python", PyCon AU 2020 Online, Australia
+
 * "Deceptive Security using Python", PiterPy online 2020, Russia
 * "Deceptive Security using Python", PyCon Africa 2020, online, Africa
 * 20-August-2020, "Julia: An Introduction to new age programming language" at Vidya Vardhak College of Engineering, MySuru, India
