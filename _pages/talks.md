@@ -51,7 +51,7 @@ author_profile: true
 * "Python in Education for Generation Z", PyOhio 2020 online, USA
 
 <h1>Workshops</h1>
-* Resource person for two day online Faculty Development Program on "Introduction to Julia Language" on 21st and 22nd July 2020.[Part-1](https://www.youtube.com/watch?v=ck3joyTo_jQ) [Part-2](https://www.youtube.com/watch?v=-gKG-bokL34) [Part-3](https://www.youtube.com/watch?v=pRjdIbiD3Mk) [Part-4](https://www.youtube.com/watch?v=YVjO2hyxRX0)
+* Resource person for two day online Faculty Development Program on "Introduction to Julia Language" on 21st and 22nd July 2020.[Videos: [Part-1](https://www.youtube.com/watch?v=ck3joyTo_jQ) | [Part-2](https://www.youtube.com/watch?v=-gKG-bokL34) | [Part-3](https://www.youtube.com/watch?v=pRjdIbiD3Mk) | [Part-4](https://www.youtube.com/watch?v=YVjO2hyxRX0)]
 * Resource person for four day workshop on “Introduction to Python Programming and its Applications in Climate Smart Agriculture”, organized by ICAR-National Agricultural Higher Education Project (NAHEP), The Centre for Advanced Agricultural Science and Technology (CAAST), for Climate Smart Agriculture and Water Management (CSAWM) & The Rashtriya Krishi Vikas Yojana (RKVY) Project on
 Irrigation Water Requirement Advisory Service (IWRAS), Mahatma Phule Krishi Vidyapeeth (MPKV), Rahuri-413722, Ahmednagar (Maharashtra) 
 * Resource person for one day workshop on "Web Programming using Perl", GSS College, Belagavi
