@@ -92,13 +92,15 @@ author_profile: true
 
 * Resource person for one day workshop "Web Programming, IDE and Tools", KLS GIT, Belagavi
 
-*	Resource person for one day workshop, “Essence of Software Project Development Life Cycle”, KLS GIT Belagavi
+*	24-September-2013, Resource person for one day workshop, “Essence of Software Project Development Life Cycle”, KLS GIT Belagavi
+
+* 8-January-2013,  Resource person for Continuing Education Programme conducted for PWD employees on “Search Engines, Web Browsers and Social Networking”at KLS Gogte Institute of Technology, Belagavi
 
 * Resource person for one day workshop, “Network Programming”, GSS College, Belagavi
 
 *	Resource person for GATE 2013 training programme, “Web Programming”, KLS GIT, Belagavi
 
-*	Resource person for two-day workshop, “HTML5″, KLS GIT, Belagavi
+*	31-March, 1-April-2020, Resource person for two-day workshop, “HTML5″, KLS GIT, Belagavi
 
 *	Resource person for one day workshop, “Web Hosting”,KLS GIT Belagavi
 
