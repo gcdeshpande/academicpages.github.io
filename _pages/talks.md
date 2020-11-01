@@ -7,6 +7,17 @@ author_profile: true
 <h1>Interviews</h1>
 11-October-2020, "[Teaching Online V/s Offline](https://www.youtube.com/watch?v=gPB0Pmd_sAU)", Life Loosened Up, Episode 6 
 
+<h1>Upcoming Talks</h1>
+* 19-November-2020, "Python and FOSS in Education for Generation Z", Geekle's python Universe WEB Edition Global Summit 
+
+* 19-November-2020, "Investigating Digital Crimes using Python", Geekle's python Universe WEB Edition Global Summit
+
+* 15-November-2020, "Inventing Curriculum using Python and spaCy", PyData Global 2020 Online
+
+* 14/15-November-2020, "Python and FOSS in Education for Generation Z", PyCon Indonesia 2020 Online
+
+* 8-November-2020, "Investigating Digital Crimes in Smart Cities using Python", HoneyCon 2020 Online, Spain
+
 <h1>Talks</h1>
 
 * 03-October-2020, "[Investigating Digital Crimes using Python](https://www.youtube.com/watch?v=0Jt-xm7kC2Y&t) ", PyCon ES 2020 Pandemic Edition
