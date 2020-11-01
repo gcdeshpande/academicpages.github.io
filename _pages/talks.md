@@ -43,17 +43,17 @@ author_profile: true
 
 * 10-May-2020, "[Deceptive Security using Python](https://www.youtube.com/watch?v=N1ZcjR6yMlM)", PyCon HK 2020, Hong Kong (Online)
 
-* "How to Make Contribution to Python Community", at Python Open Discussion Forum, organized jointly by PyData Belagavi and International Society for Automation Student Club, KLS GIT, Belagavi
+* 25-February-2020, "How to Make Contribution to Python Community", at Python Open Discussion Forum, organized jointly by PyData Belagavi and International Society for Automation Student Club, KLS GIT, Belagavi
 
 * 2-November-2019, "[Computation Techniques for Encrypted Data](https://www.youtube.com/watch?v=Z6rHSFutxtY)", PyCon FR 2019, University of Bordeaux, France 
 
-* 8-August-2018, "[Brain Computer Interface meets Internet of Things](https://www.youtube.com/watch?v=L3tBcUxJsvU)", JuliaCon 2018, University College, London, UK
+* 20-September-2019, "Free and Open Source Software", Hirasugar Institute of Technology, Belagavi
 
 * 22-December-2018, "Implementation of Multi Agent System for Computation over Cipher Text for Internet of Things", Scipy India 2018, Indian Institute of Technology, Bombay, India
 
-* 30-November-2017, "Implementation of Prevention of XPath Injection Attack using PyBRAIN Machine Learning Library", Scipy India 2017, Indian Institute of Technology, Bombay, India
+* 8-August-2018, "[Brain Computer Interface meets Internet of Things](https://www.youtube.com/watch?v=L3tBcUxJsvU)", JuliaCon 2018, University College, London, UK
 
-* "Free and Open Source Software", Hirasugar Institute of Technology, Belagavi
+* 30-November-2017, "Implementation of Prevention of XPath Injection Attack using PyBRAIN Machine Learning Library", Scipy India 2017, Indian Institute of Technology, Bombay, India
 
 * “Applications of Internet of Things”, KLSVPP, Belagavi
 
