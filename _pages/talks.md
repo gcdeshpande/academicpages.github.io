@@ -8,6 +8,8 @@ author_profile: true
 11-October-2020, "[Teaching Online V/s Offline](https://www.youtube.com/watch?v=gPB0Pmd_sAU)", Life Loosened Up, Episode 6 
 
 <h1>Upcoming Talks</h1>
+* 5-December-2020, "Investigating Digital Crimes using Python", Pyjamas 2020 Online
+
 * 19-November-2020, "Python and FOSS in Education for Generation Z", Geekle's python Universe WEB Edition Global Summit 
 
 * 19-November-2020, "Investigating Digital Crimes using Python", Geekle's python Universe WEB Edition Global Summit
