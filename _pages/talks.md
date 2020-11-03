@@ -16,7 +16,7 @@ author_profile: true
 
 * 15-November-2020, "Inventing Curriculum using Python and spaCy", PyData Global 2020 Online
 
-* 14/15-November-2020, "Python and FOSS in Education for Generation Z", PyCon Indonesia 2020 Online
+* 14-November-2020, "Python and FOSS in Education for Generation Z", PyCon Indonesia 2020 Online
 
 * 8-November-2020, "Investigating Digital Crimes in Smart Cities using Python", HoneyCon 2020 Online, Spain
 
