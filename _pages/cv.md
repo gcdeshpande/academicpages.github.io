@@ -31,7 +31,7 @@ Role: Consultant
 
 * Eyewriter\
 Funded by New Age Incubation Network, Government of Karnataka (2.6 lakhs)\
-Role: Mentor\
+Role: Mentor
 
 * Websites for KLS and its institutions (2013)\
 Role: Single point of contact between KLS and DotCord IT Solutions
@@ -44,23 +44,23 @@ Institute level responsibilities
 Website Coordinator \
 Startup activity coordinator at Institute Innovation Cell \
 Single Point contact for Smart India Hackathon (2017- Present) \
-Department Coordinator, Industry Institute Partnership \
+Department Coordinator, Industry Institute Partnership 
 
 Education
 ==
 Post Graduate Diploma in Cyber Law and Cyber Forensics [2020] \
 National Law School of India University, Bangalore, India \
-Dissertation: Legal Possibility of Regulation of Artificial Intelligence \
+Dissertation: Legal Possibility of Regulation of Artificial Intelligence 
 
 M.Tech. in Computer Science and Engineering [2013] \
 KLS Gogte Institute of Technology, Belagavi, India \
-Dissertation: Modeling and Mitigation of XPath Injection Attacks for Web Services Using Modular Neural Networks \
+Dissertation: Modeling and Mitigation of XPath Injection Attacks for Web Services Using Modular Neural Networks 
 
 B.E. in Computer Science and Engineering (2008) \
-KLS Gogte Institute of Technology, Belagavi, India \
+KLS Gogte Institute of Technology, Belagavi, India 
 
 Diploma in Information Science (2004) \
-KLS Shri Vasantrao Potdar Polytechnic, Belagavi, India \
+KLS Shri Vasantrao Potdar Polytechnic, Belagavi, India 
 
 Certifications
 ==
@@ -72,7 +72,8 @@ Python, Julia, LAMP Stack, WordPress
 
 Academic Alliance
 ==
-UiPath, GitHub
+* UiPath - Coordinator and Educator
+* GitHub - Administrator and Campus Advisor
 
 Workshop Presentations
 ==
@@ -80,7 +81,7 @@ Presented workshops on Python, Julia, Perl and Web Programming
 
 Conference Presentations
 ==
-Deshpande G., Kulkarni S. (2019) Modeling and Mitigation of XPath Injection Attacks for Web Services Using Modular Neural Networks. In: Sa P., Bakshi S., Hatzilygeroudis I., Sahoo M. (eds) Recent Findings in Intelligent Computing Techniques. Advances in Intelligent Systems and Computing, vol 707. Springer, Singapore. Presented at ICACNI 2017, National Institute of Technology, Goa, India
+* Deshpande G., Kulkarni S. (2019) Modeling and Mitigation of XPath Injection Attacks for Web Services Using Modular Neural Networks. In: Sa P., Bakshi S., Hatzilygeroudis I., Sahoo M. (eds) Recent Findings in Intelligent Computing Techniques. Advances in Intelligent Systems and Computing, vol 707. Springer, Singapore. Presented at ICACNI 2017, National Institute of Technology, Goa, India
 
 Talk Presentations
 ==
@@ -88,7 +89,7 @@ SciPy India 2018, Scipy India 2017, JuliaCon 2018, JuliaCon 2020, PyCon France 2
 
 Poster Presentations
 ==
-SciPy USA 2020, SciPy USA 2019, ACM IRISS 2020, 2019 and 2016, JuliaCon 2020, SMILES 2020 Russia, JupyterCon 2020
+CMU AIDR 2020 USA, SciPy USA 2020, SciPy USA 2019, ACM IRISS 2020, 2019 and 2016, JuliaCon 2020, SMILES 2020 Russia, JupyterCon 2020
 
 Program Committee Member/Reviewer
 ==
@@ -96,19 +97,20 @@ Manning Publications USA, Oxford University Press India, Journal of Open Source 
 
 Scholarships
 ==
-JuliaCon 2018 and 2020, SciPy 2019 and 2020, JupyterCon 2020, 
-PyCon France 2019
+JuliaCon 2018 and 2020, SciPy 2019 and 2020, JupyterCon 2020, PyCon France 2019
 
 Achievements
 ==
-Mentor for Smart India Hackathon teams (four winning titles since 2017)
-Top Reviewer Award – SciPy 2020, USA
-Appreciation from UiPath for institution participation in DevCon 2020
-Top recruiter for ACM ambassador program for February 2018-2019 
+* Mentor for CERN WebFest 2020 (One of Top 7 projects)
+* Mentor for Smart India Hackathon teams (four winning titles since 2017)
+* Top Reviewer Award – SciPy 2020, USA
+* Appreciation from UiPath for institution participation in DevCon 2020
+* Top recruiter for ACM ambassador program for February 2018-2019 
 
 Chapter Lead / Organizer
 ==
-* OWASP Belagavi, PyData Belagavi
+* OWASP Belagavi
+* PyData Belagavi
 * Organizing Co-Chair, FOSSCon India 2019
 
 Volunteer Experience
