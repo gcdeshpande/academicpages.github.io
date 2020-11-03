@@ -11,19 +11,19 @@ redirect_from:
 
 Projects
 ==
-* COVID-19 Research Information Analysis and QA System (2020)
-Supported by Hub for Good Program, DigitalOcean, USA
+* COVID-19 Research Information Analysis and QA System (2020)\
+Supported by Hub for Good Program, DigitalOcean, USA\
 Role: Principal Investigator
 
-* Platform to support SSLC and PUC Students in India (2020)
-Supported by Hub for Good Program, DigitalOcean, USA
+* Platform to support SSLC and PUC Students in India (2020)\
+Supported by Hub for Good Program, DigitalOcean, USA\
 Role: Principal Investigator
 
-* Websites for KLS and its institutions, Belagavi (2020)
-Contract of revamping 14 websites
+* Websites for KLS and its institutions, Belagavi (2020)\
+Contract of revamping 14 websites\
 Role: Project Manager
 
-* Website for KLS Gogte Institute of Technology, Belagavi (2015-Present)
+* Website for KLS Gogte Institute of Technology, Belagavi (2015-Present)\
 Role: Website Designer and Administrator
 
 * Website for Belagavi Bar Association (2019-Present)
