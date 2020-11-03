@@ -26,41 +26,41 @@ Role: Project Manager
 * Website for KLS Gogte Institute of Technology, Belagavi (2015-Present)\
 Role: Website Designer and Administrator
 
-* Website for Belagavi Bar Association (2019-Present)
+* Website for Belagavi Bar Association (2019-Present)\
 Role: Consultant
 
-* Eyewriter
-Funded by New Age Incubation Network, Government of Karnataka (2.6 lakhs)
-Role: Mentor
+* Eyewriter\
+Funded by New Age Incubation Network, Government of Karnataka (2.6 lakhs)\
+Role: Mentor\
 
-* Websites for KLS and its institutions (2013)
+* Websites for KLS and its institutions (2013)\
 Role: Single point of contact between KLS and DotCord IT Solutions
 
-* Websites for Gayatri Bhavan Belagavi, Raja Studio, Kids Dentist Bangalore, Sangram Kulkarni, Sestoauto.com
+* Websites for Gayatri Bhavan Belagavi, Raja Studio, Kids Dentist Bangalore, Sangram Kulkarni, Sestoauto.com\
 Role: freelancer
 
 Institute level responsibilities	
 ==
-Website Coordinator
-Startup activity coordinator at Institute Innovation Cell
-Single Point contact for Smart India Hackathon (2017- Present)
-Department Coordinator, Industry Institute Partnership 
+Website Coordinator \
+Startup activity coordinator at Institute Innovation Cell \
+Single Point contact for Smart India Hackathon (2017- Present) \
+Department Coordinator, Industry Institute Partnership \
 
 Education
 ==
-Post Graduate Diploma in Cyber Law and Cyber Forensics [2020]
-National Law School of India University, Bangalore, India
-Dissertation: Legal Possibility of Regulation of Artificial Intelligence
+Post Graduate Diploma in Cyber Law and Cyber Forensics [2020] \
+National Law School of India University, Bangalore, India \
+Dissertation: Legal Possibility of Regulation of Artificial Intelligence \
 
-M.Tech. in Computer Science and Engineering [2013]
-KLS Gogte Institute of Technology, Belagavi, India
-Dissertation: Modeling and Mitigation of XPath Injection Attacks for Web Services Using Modular Neural Networks
+M.Tech. in Computer Science and Engineering [2013] \
+KLS Gogte Institute of Technology, Belagavi, India \
+Dissertation: Modeling and Mitigation of XPath Injection Attacks for Web Services Using Modular Neural Networks \
 
-B.E. in Computer Science and Engineering (2008)
-KLS Gogte Institute of Technology, Belagavi, India
+B.E. in Computer Science and Engineering (2008) \
+KLS Gogte Institute of Technology, Belagavi, India \
 
-Diploma in Information Science (2004)
-KLS Shri Vasantrao Potdar Polytechnic, Belagavi, India
+Diploma in Information Science (2004) \
+KLS Shri Vasantrao Potdar Polytechnic, Belagavi, India \
 
 Certifications
 ==
