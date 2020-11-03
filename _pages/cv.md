@@ -11,7 +11,7 @@ redirect_from:
 
 Projects
 ==
-* Inventing Curriculum using Pointer-Generator Network\
+* Inventing Curriculum using Pointer-Generator Network(2020)\
 Supported by Google Cloud under GCP Research Credits Program with a Grant of $5000\
 Role: Principal Investigator
 
