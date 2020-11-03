@@ -11,55 +11,59 @@ redirect_from:
 
 Projects
 ==
+* Inventing Curriculum using Pointer-Generator Network\
+Supported by Google Cloud under GCP Research Credits Program with a Grant of $5000\
+*Role: Principal Investigator
+
 * COVID-19 Research Information Analysis and QA System (2020)\
-Supported by Hub for Good Program, DigitalOcean, USA\
-Role: Principal Investigator
+Supported by Hub for Good Program, DigitalOcean, USA with a Grant of $50\
+*Role: Principal Investigator
 
 * Platform to support SSLC and PUC Students in India (2020)\
-Supported by Hub for Good Program, DigitalOcean, USA\
-Role: Principal Investigator
+Supported by Hub for Good Program, DigitalOcean, USA with a Grant of $250
+*Role: Principal Investigator
 
 * Websites for KLS and its institutions, Belagavi (2020)\
 Contract of revamping 14 websites\
-Role: Project Manager
+*Role: Project Manager
 
 * Website for KLS Gogte Institute of Technology, Belagavi (2015-Present)\
-Role: Website Designer and Administrator
+*Role: Website Designer and Administrator
 
 * Website for Belagavi Bar Association (2019-Present)\
-Role: Consultant
+*Role: Consultant
 
 * Eyewriter\
 Funded by New Age Incubation Network, Government of Karnataka (2.6 lakhs)\
-Role: Mentor
+*Role: Mentor
 
 * Websites for KLS and its institutions (2013)\
-Role: Single point of contact between KLS and DotCord IT Solutions
+*Role: Single point of contact between KLS and DotCord IT Solutions
 
 * Websites for Gayatri Bhavan Belagavi, Raja Studio, Kids Dentist Bangalore, Sangram Kulkarni, Sestoauto.com\
-Role: freelancer
+*Role: freelancer
 
 Institute level responsibilities	
 ==
-Website Coordinator \
-Startup activity coordinator at Institute Innovation Cell \
-Single Point contact for Smart India Hackathon (2017- Present) \
-Department Coordinator, Industry Institute Partnership 
+* Website Coordinator \
+* Startup activity coordinator at Institute Innovation Cell \
+* Single Point contact for Smart India Hackathon (2017- Present) \
+* Department Coordinator, Industry Institute Partnership 
 
 Education
 ==
-Post Graduate Diploma in Cyber Law and Cyber Forensics [2020] \
+* Post Graduate Diploma in Cyber Law and Cyber Forensics [2020] \
 National Law School of India University, Bangalore, India \
-Dissertation: Legal Possibility of Regulation of Artificial Intelligence 
+*Dissertation: Legal Possibility of Regulation of Artificial Intelligence 
 
-M.Tech. in Computer Science and Engineering [2013] \
+* M.Tech. in Computer Science and Engineering [2013] \
 KLS Gogte Institute of Technology, Belagavi, India \
-Dissertation: Modeling and Mitigation of XPath Injection Attacks for Web Services Using Modular Neural Networks 
+*Dissertation: Modeling and Mitigation of XPath Injection Attacks for Web Services Using Modular Neural Networks 
 
-B.E. in Computer Science and Engineering (2008) \
+* B.E. in Computer Science and Engineering (2008) \
 KLS Gogte Institute of Technology, Belagavi, India 
 
-Diploma in Information Science (2004) \
+* Diploma in Information Science (2004) \
 KLS Shri Vasantrao Potdar Polytechnic, Belagavi, India 
 
 Certifications
@@ -93,7 +97,9 @@ CMU AIDR 2020 USA, SciPy USA 2020, SciPy USA 2019, ACM IRISS 2020, 2019 and 2016
 
 Program Committee Member/Reviewer
 ==
-Manning Publications USA, Oxford University Press India, Journal of Open Source Software, Journal of Open Source Education, SciPy 2020 and 2019, JuliaCon 2020, SciPy Japan, FOSSCon India 2019, PyData Global 2020, JupyterCon 2020
+* Book Publishers: Manning Publications USA, Oxford University Press India, 
+* Journals: Journal of Open Source Software(JOSS), Journal of Open Source Education (JOSE) 
+* Conferences: SciPy 2020 and 2019, JuliaCon 2020, SciPy Japan, FOSSCon India 2019, PyData Global 2020, JupyterCon 2020, Pyjamas 2020
 
 Scholarships
 ==
@@ -119,5 +125,3 @@ Volunteer Experience
 * Treasurer, Gangadharrao Deshpande Memorial Committee, Belagavi (2018 – Present)
 * Office Bearer, Past Students Association, B K Model School, Belagavi (2017-19)
 * President, Alumni Association, KLS Shri Vasantrao Potdar Polytechnic (2011-13)
-
-
