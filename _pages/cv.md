@@ -89,7 +89,7 @@ Conference Presentations
 
 Talk Presentations
 ==
-SciPy India 2018, Scipy India 2017, JuliaCon 2018, JuliaCon 2020, PyCon France 2019, PyCon Taiwan, PyCon Hong Kong, PyCon Africa, PyCon Korea, PyCon Australia, COSCUP Taiwan, PyOhio, EuroPython, BuzzConf Argentina, PiterPy Russia, GirlScript India Summit, PyCon ES 2020, HoneyCon 2020, 
+SciPy India 2018, Scipy India 2017, JuliaCon 2018, JuliaCon 2020, PyCon France 2019, PyCon Taiwan, PyCon Hong Kong, PyCon Africa, PyCon Korea, PyCon Australia, COSCUP Taiwan, PyOhio, EuroPython, BuzzConf Argentina, PiterPy Russia, GirlScript India Summit, PyCon ES 2020, HoneyCon 2020, PyCon ID 2020, Python Web Universe Global Summit 2020, PyData Global 2020
 
 Poster Presentations
 ==
