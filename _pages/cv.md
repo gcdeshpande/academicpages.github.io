@@ -20,7 +20,7 @@ Supported by Hub for Good Program, DigitalOcean, USA with a Grant of $50\
 Role: Principal Investigator
 
 * Platform to support SSLC and PUC Students in India (2020)\
-Supported by Hub for Good Program, DigitalOcean, USA with a Grant of $250
+Supported by Hub for Good Program, DigitalOcean, USA with a Grant of $250\
 Role: Principal Investigator
 
 * Eyewriter\
