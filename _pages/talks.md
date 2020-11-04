@@ -21,11 +21,11 @@ author_profile: true
 * 8-November-2020, "Investigating Digital Crimes in Smart Cities using Python", HoneyCon 2020 Online, Spain
 
 <h1>Talks</h1>
-* 4,5-November-2020, "Be Safe on Cyber Space", KLS Gogte Institute of Technology, India
+* 4,5-November-2020, "Be Safe on Cyber Space", KLS Gogte Institute of Technology, India [Part-1](https://www.youtube.com/watch?v=dAdrL74sOjU)
 
 * 03-October-2020, "[Investigating Digital Crimes using Python](https://www.youtube.com/watch?v=0Jt-xm7kC2Y&t) ", PyCon ES 2020 Pandemic Edition
 
-* 26-September-2020, "Python and FOSS in Education for Generation Z", PyCon Korea 2020, online, Korea
+* 26-September-2020, "[Python and FOSS in Education for Generation Z](https://www.youtube.com/watch?v=gPuauxngBac)", PyCon Korea 2020, online, Korea
 
 * 19-September-2020, "Investigating Digital Crimes using Python", GirlScript Summit India 2020
 
@@ -41,11 +41,11 @@ author_profile: true
 
 * 06-August-2020, "Deceptive Security using Python", PiterPy online 2020, Russia
 
-* 1-August-2020, "[Deceptive Security using Python](https://www.youtube.com/watch?v=-WfPvIbbpYI)", Conference on Open Source Coders Users and Promoters - COSCUP 2020 online, Taiwan
+* 1-August-2020, "[Deceptive Security using Python](https://www.youtube.com/watch?v=-WfPvIbbpYI)", Conference on Open Source Coders Users and Promoters - COSCUP 2020 online, Taiwan ([Good quality local recording](https://www.youtube.com/watch?v=McH0WZdt2s4) )
 
-* 1-August-2020, "[Inventing Curriculum with Julia and Pointer-Generator Network](https://www.youtube.com/watch?v=P4OpW_26Aj8)", Conference on Open Source Coders Users and Promoters - COSCUP 2020 online, Taiwan
+* 1-August-2020, "[Inventing Curriculum with Julia and Pointer-Generator Network](https://www.youtube.com/watch?v=P4OpW_26Aj8)", Conference on Open Source Coders Users and Promoters - COSCUP 2020 online, Taiwan ([Good quality local recording](https://www.youtube.com/watch?v=shM_d5rwpHQ) )
 
-* 1-August-2020, "[Julia Code Generator for Flowgorithm Flow Chart Interpreter](https://www.youtube.com/watch?v=5uDzpTLXYT8)", Conference on Open Source Coders Users and Promoters - COSCUP 2020 online, Taiwan
+* 1-August-2020, "[Julia Code Generator for Flowgorithm Flow Chart Interpreter](https://www.youtube.com/watch?v=5uDzpTLXYT8)", Conference on Open Source Coders Users and Promoters - COSCUP 2020 online, Taiwan (Good quality local recording [Part 1](https://www.youtube.com/watch?v=F78ym2gia_c) [Part 2](https://www.youtube.com/watch?v=PPqba_Yj9RU))
 
 * 30-July-2020, "[Inventing Curriculum with Julia and Pointer-Generator Network](https://www.youtube.com/watch?v=s9vOPTDpCzI)", JuliaCon 2020 online, Portugal 
 
