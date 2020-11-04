@@ -23,6 +23,10 @@ Role: Principal Investigator
 Supported by Hub for Good Program, DigitalOcean, USA with a Grant of $250
 Role: Principal Investigator
 
+* Eyewriter\
+Funded by New Age Incubation Network, Government of Karnataka (2.6 lakhs)\
+Role: Mentor
+
 * Websites for KLS and its institutions, Belagavi (2020)\
 Contract of revamping 14 websites\
 Role: Project Manager
@@ -33,12 +37,7 @@ Role: Website Designer and Administrator
 * Website for Belagavi Bar Association (2019-Present)\
 Role: Consultant
 
-* Eyewriter\
-Funded by New Age Incubation Network, Government of Karnataka (2.6 lakhs)\
-Role: Mentor
-
-* Websites for KLS and its institutions (2013)\
-Role: Single point of contact between KLS and DotCord IT Solutions
+* Websites for KLS and its institutions (2013)Role: Single point of contact between KLS and DotCord IT Solutions
 
 * Websites for Gayatri Bhavan Belagavi, Raja Studio, Kids Dentist Bangalore, Sangram Kulkarni, Sestoauto.com\
 Role: freelancer
