@@ -89,7 +89,7 @@ author_profile: true
 
 * 7,8-May-2020, Resource person for four day workshop on “Introduction to Python Programming and its Applications in Climate Smart Agriculture”, organized by ICAR-National Agricultural Higher Education Project (NAHEP), The Centre for Advanced Agricultural Science and Technology (CAAST), for Climate Smart Agriculture and Water Management (CSAWM) & The Rashtriya Krishi Vikas Yojana (RKVY) Project on Irrigation Water Requirement Advisory Service (IWRAS), Mahatma Phule Krishi Vidyapeeth (MPKV), Rahuri-413722, Ahmednagar (Maharashtra) 
 
-* 27-February-2020,025 Resource person for one day workshop on "Web Programming using Perl", GSS College, Belagavi
+* 27-February-2020, Resource person for one day workshop on "Web Programming using Perl", GSS College, Belagavi
 
 *	3-October-2019, Resource person for one day workshop, “Python Programming”, GSS College, Belagavi
 
@@ -103,7 +103,7 @@ author_profile: true
 
 *	Resource person for GATE 2013 training programme, “Web Programming”, KLS GIT, Belagavi
 
-*	31-March, 1-April-2020, Resource person for two-day workshop, “HTML5″, KLS GIT, Belagavi
+*	31-March, 1-April-2012, Resource person for two-day workshop, “HTML5″, KLS GIT, Belagavi
 
 *	Resource person for one day workshop, “Web Hosting”,KLS GIT Belagavi
 
