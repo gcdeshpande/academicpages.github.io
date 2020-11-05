@@ -108,4 +108,4 @@ author_profile: true
 *	Resource person for one day workshop, “Web Hosting”,KLS GIT Belagavi
 
 <h1> Birds of Feather (BoF) Sessions</h1>
-* Proposed and moderated a BoF Session on "Python in Education for Generation Z", SciPy 2020, USA
+* 6-July-2020, Proposed and moderated a BoF Session on "Python in Education for Generation Z", SciPy 2020, USA
