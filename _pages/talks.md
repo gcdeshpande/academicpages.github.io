@@ -21,7 +21,7 @@ author_profile: true
 * 8-November-2020, "Investigating Digital Crimes in Smart Cities using Python", HoneyCon 2020 Online, Spain
 
 <h1>Talks</h1>
-* 4,5-November-2020, "Be Safe on Cyber Space", KLS Gogte Institute of Technology, India [Part-1](https://www.youtube.com/watch?v=dAdrL74sOjU) [Part-2](https://www.youtube.com/watch?v=ISzcTuNSnA4)
+* 4,5-November-2020, "Be Safe on Cyber Space", KLS Gogte Institute of Technology, India [Part-1](https://www.youtube.com/watch?v=dAdrL74sOjU) [Part-2](https://www.youtube.com/watch?v=ISzcTuNSnA4) [Slides](https://github.com/gcdeshpande/gcdeshpande.github.io/blob/master/slide/BeSafe.pdf)
 
 * 03-October-2020, "[Investigating Digital Crimes using Python](https://www.youtube.com/watch?v=0Jt-xm7kC2Y&t) ", PyCon ES 2020 Pandemic Edition
 
