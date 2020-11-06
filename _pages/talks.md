@@ -30,6 +30,7 @@ author_profile: true
 * 19-September-2020, "Investigating Digital Crimes using Python", GirlScript Summit India 2020
 
 * 15-September-2020, "[Building LinkedIn and GitHub Profiles for Better Career Opportunities](https://www.youtube.com/watch?v=ZMd7PVDfWxQ)", CSI Student Branch -GIT, Belagavi
+[Slides](https://github.com/gcdeshpande/gcdeshpande.github.io/blob/master/slide/CSI-Webinar.pdf)
 
 * 05-September-2020, "Computation Techniques for Encrypted Data", PyCon TW 2020, Taiwan
 
@@ -39,7 +40,7 @@ author_profile: true
 
 * 07-August-2020, "[Deceptive Security using Python](https://www.youtube.com/watch?v=RQa7yt0-ktk)", PyCon Africa 2020, online, Africa
 
-* 06-August-2020, "Deceptive Security using Python", PiterPy online 2020, Russia
+* 06-August-2020, "Deceptive Security using Python", PiterPy online 2020, Russia (Slides)
 
 * 1-August-2020, "[Deceptive Security using Python](https://www.youtube.com/watch?v=-WfPvIbbpYI)", Conference on Open Source Coders Users and Promoters - COSCUP 2020 online, Taiwan ([Good quality local recording](https://www.youtube.com/watch?v=McH0WZdt2s4) )
 
@@ -51,7 +52,7 @@ author_profile: true
 
 * 24-July-2020, "[Deceptive Security using Python](https://www.youtube.com/watch?v=nR6hqmJ3GJM)", EuroPython 2020 Online, Ireland [Slides](https://github.com/gcdeshpande/gcdeshpande.github.io/blob/master/slide/EuroPython.pdf)
 
-* 24-July-2020, "[What Makes a Website Look Professional](https://www.youtube.com/watch?v=AAfxJiXe8wE&)", IEEE-GIT, India
+* 24-July-2020, "[What Makes a Website Look Professional](https://www.youtube.com/watch?v=AAfxJiXe8wE&)", IEEE-GIT, India [Slides](https://github.com/gcdeshpande/gcdeshpande.github.io/blob/master/slide/ieee.pdf)
 
 * 12-June-2020, "[Cyber Security: Technologies and Academic Opportunities](https://www.youtube.com/watch?v=iqZHo2eY84I)", organized by Karnataka Science and Technology Academy, Department of Science and Technology, Government of Karnataka, India (Starts at 1:04:35)
 
