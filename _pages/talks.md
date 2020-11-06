@@ -83,7 +83,7 @@ author_profile: true
 
 * 28-July-2020, "[Computation Techniques for Encrypted Data using Python](https://www.youtube.com/watch?v=Tfscs1MoEt0)", BuzzConf 2020 online, Argentina [Slides](https://github.com/gcdeshpande/gcdeshpande.github.io/blob/master/slide/BuzzConf2020.pdf)
 
-* 25-July-2020, "[Python in Education for Generation Z](https://www.youtube.com/watch?v=hzABPEzM-pE)", PyOhio 2020 online, USA [Slides] (https://github.com/gcdeshpande/gcdeshpande.github.io/blob/master/slide/PyOhio2020.pdf)
+* 25-July-2020, "[Python in Education for Generation Z](https://www.youtube.com/watch?v=hzABPEzM-pE)", PyOhio 2020 online, USA [Slides](https://github.com/gcdeshpande/gcdeshpande.github.io/blob/master/slide/PyOhio2020.pdf)
 
 <h1>Workshops</h1>
 * 21,22-July-2020, Resource person for two day online Faculty Development Program on "Introduction to Julia Language", [Part-1](https://www.youtube.com/watch?v=ck3joyTo_jQ)  [Part-2](https://www.youtube.com/watch?v=-gKG-bokL34)  [Part-3](https://www.youtube.com/watch?v=pRjdIbiD3Mk)  [Part-4](https://www.youtube.com/watch?v=YVjO2hyxRX0)
