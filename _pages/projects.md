@@ -4,7 +4,7 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
-## Inventing Curriculum using Pointer-Generator Network 
+## Inventing Curriculum using Pointer-Generator Network (2020) 
 *Supported by Google Cloud under GCP Research Credits Program \
 Grant: $5000 Cloud credits \
 Role: Principal Investigator\
