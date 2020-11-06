@@ -49,7 +49,7 @@ author_profile: true
 
 * 30-July-2020, "[Inventing Curriculum with Julia and Pointer-Generator Network](https://www.youtube.com/watch?v=s9vOPTDpCzI)", JuliaCon 2020 online, Portugal 
 
-* 24-July-2020, "[Deceptive Security using Python](https://www.youtube.com/watch?v=nR6hqmJ3GJM)", EuroPython 2020 Online, Ireland 
+* 24-July-2020, "[Deceptive Security using Python](https://www.youtube.com/watch?v=nR6hqmJ3GJM)", EuroPython 2020 Online, Ireland [Slides](https://github.com/gcdeshpande/gcdeshpande.github.io/blob/master/slide/EuroPython.pdf)
 
 * 24-July-2020, "[What Makes a Website Look Professional](https://www.youtube.com/watch?v=AAfxJiXe8wE&)", IEEE-GIT, India
 
