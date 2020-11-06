@@ -23,7 +23,7 @@ author_profile: true
 <h1>Talks</h1>
 * 4,5-November-2020, "Be Safe on Cyber Space", KLS Gogte Institute of Technology, India [Part-1](https://www.youtube.com/watch?v=dAdrL74sOjU) [Part-2](https://www.youtube.com/watch?v=ISzcTuNSnA4) [Slides](https://github.com/gcdeshpande/gcdeshpande.github.io/blob/master/slide/BeSafe.pdf)
 
-* 03-October-2020, "[Investigating Digital Crimes using Python](https://www.youtube.com/watch?v=0Jt-xm7kC2Y&t) ", PyCon ES 2020 Pandemic Edition
+* 03-October-2020, "[Investigating Digital Crimes using Python](https://www.youtube.com/watch?v=0Jt-xm7kC2Y&t) ", PyCon ES 2020 Pandemic Edition [Slides](https://github.com/gcdeshpande/gcdeshpande.github.io/blob/master/slide/pycones.pdf)
 
 * 26-September-2020, "[Python and FOSS in Education for Generation Z](https://www.youtube.com/watch?v=gPuauxngBac)", PyCon Korea 2020, online, Korea [Slides](https://github.com/gcdeshpande/gcdeshpande.github.io/blob/master/slide/PyConKR-2020-Gajendra.pdf)
 
@@ -64,11 +64,11 @@ author_profile: true
 
 * 20-September-2019, "Free and Open Source Software", Hirasugar Institute of Technology, Belagavi [Slides](https://github.com/gcdeshpande/gcdeshpande.github.io/blob/master/slide/Talk_HIT.pdf)
 
-* 22-December-2018, "Implementation of Multi Agent System for Computation over Cipher Text for Internet of Things", Scipy India 2018, Indian Institute of Technology, Bombay, India
+* 22-December-2018, "Implementation of Multi Agent System for Computation over Cipher Text for Internet of Things", Scipy India 2018, Indian Institute of Technology, Bombay, India [Slides](https://github.com/gcdeshpande/gcdeshpande.github.io/blob/master/slide/scipy2018.pdf)
 
 * 8-August-2018, "[Brain Computer Interface meets Internet of Things](https://www.youtube.com/watch?v=L3tBcUxJsvU)", JuliaCon 2018, University College, London, UK
 
-* 30-November-2017, "Implementation of Prevention of XPath Injection Attack using PyBRAIN Machine Learning Library", Scipy India 2017, Indian Institute of Technology, Bombay, India
+* 30-November-2017, "Implementation of Prevention of XPath Injection Attack using PyBRAIN Machine Learning Library", Scipy India 2017, Indian Institute of Technology, Bombay, India [Slides](https://github.com/gcdeshpande/gcdeshpande.github.io/blob/master/slide/scipy_india_2017.pdf)
 
 * “Applications of Internet of Things”, KLSVPP, Belagavi
 
