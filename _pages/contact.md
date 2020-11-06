@@ -8,7 +8,7 @@ author_profile: true
 Department of Computer Science and Engineering\
 KLS Gogte Institute of Technology, \
 Udyambag, Belagavi - 590 008\
-Karnataka, India\
+Karnataka, India
 
 :email: email : gcdeshpande [at] hotmail.com; gcdeshpande [at] git.edu \
 Twitter : [gcdeshpande](https://twitter.com/gcdeshpande)\
