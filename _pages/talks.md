@@ -40,7 +40,7 @@ author_profile: true
 
 * 07-August-2020, "[Deceptive Security using Python](https://www.youtube.com/watch?v=RQa7yt0-ktk)", PyCon Africa 2020, online, Africa
 
-* 06-August-2020, "Deceptive Security using Python", PiterPy online 2020, Russia (Slides)
+* 06-August-2020, "Deceptive Security using Python", PiterPy online 2020, Russia [Slides](https://github.com/gcdeshpande/gcdeshpande.github.io/blob/master/slide/PiterPy.pdf)
 
 * 1-August-2020, "[Deceptive Security using Python](https://www.youtube.com/watch?v=-WfPvIbbpYI)", Conference on Open Source Coders Users and Promoters - COSCUP 2020 online, Taiwan ([Good quality local recording](https://www.youtube.com/watch?v=McH0WZdt2s4) )
 
