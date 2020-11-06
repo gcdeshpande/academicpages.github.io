@@ -7,7 +7,7 @@ author_profile: true
 ## Inventing Curriculum using Pointer-Generator Network 
 *Supported by Google Cloud under GCP Research Credits Program \
 Grant: $5000 Cloud credits \
-Role: Principal Investigator
+Role: Principal Investigator\
 Implementation Language: Python*
 
 Description: The curriculum in general and undergraduate curriculum, in particular, is one of the most important pillars of an education system. The undergraduate curriculum has two main objectives i.e. employability and higher education. The greatest challenge in designing an undergraduate curriculum is achieving a balance between employability skills and laying the foundation for higher education. Generally, the curriculum is the combination of core technical subjects, professional electives, humanities, and skill-oriented subjects. We propose to use natural language processing and machine learning methods for generating useful insights in designing a curriculum.
@@ -15,7 +15,7 @@ Description: The curriculum in general and undergraduate curriculum, in particul
 ## COVID-19 Research Information Analysis and QA System (2020) 
 *Supported by Hub for Good Program, DigitalOcean, USA \
 Grant : $50 Cloud credits\
-Role: Principal Investigator
+Role: Principal Investigator\
 Implementation Language: Python*
 
 Description: COVID-19 Open Research Dataset (CORD-19) is a free resource of more than 130,000 scholarly articles about the novel coronavirus for use by the global research community. The CORD-19 dataset consists of metadata, abstract and papers related to coronavirus research. The proposed project three main objectives. First, to generate summary of research articles based on the theme and cluster them. Second, to extract the keyword from the research articles and visualize the relationship between the keywords. Third, to develop question-answer system based on natural language processing techniques.
