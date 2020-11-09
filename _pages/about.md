@@ -11,6 +11,7 @@ Mr. Gajendra Deshpande holds a Master's degree i.e., M.Tech. in Computer Science
 
 🔭 I’m currently working on research projects supported by Google Cloud and DigitalOcean\
 🗣️ I’m currently teaching Artificial Intelligence and Web Programming\
+:rainbow: I'm currently working as organizing chair for BelPy 2021 Online\
 🌱 I’m currently learning Robotic Process Automation using UiPath, GitHub and GitLab\
 👯 I’m looking to collaborate on my research projects and ideas\
 🤔 I’m looking for help with organize technical events under PyData Belagavi and OWASP chapters\
