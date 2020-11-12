@@ -25,7 +25,7 @@ author_profile: true
 
 * 03-October-2020, "[Investigating Digital Crimes using Python](https://www.youtube.com/watch?v=0Jt-xm7kC2Y&t) ", PyCon ES 2020 Pandemic Edition [Slides](https://github.com/gcdeshpande/gcdeshpande.github.io/blob/master/slide/pycones.pdf)
 
-* 26-September-2020, "[Python and FOSS in Education for Generation Z](https://www.youtube.com/watch?v=gPuauxngBac)", PyCon Korea 2020, online, Korea [Slides](https://github.com/gcdeshpande/gcdeshpande.github.io/blob/master/slide/PyConKR-2020-Gajendra.pdf)
+* 26-September-2020, "[Python and FOSS in Education for Generation Z](https://www.youtube.com/watch?v=KT-W2zWkD0c)", PyCon Korea 2020, online, Korea [Slides](https://github.com/gcdeshpande/gcdeshpande.github.io/blob/master/slide/PyConKR-2020-Gajendra.pdf)
 
 * 19-September-2020, "Investigating Digital Crimes using Python", GirlScript Summit India 2020 [Slides](https://github.com/gcdeshpande/gcdeshpande.github.io/blob/master/slide/GirlScript.pdf)
 
