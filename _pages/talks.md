@@ -14,13 +14,13 @@ author_profile: true
 
 * 19-November-2020, "Investigating Digital Crimes using Python", Geekle's python Universe WEB Edition Global Summit
 
-* 15-November-2020, "Inventing Curriculum using Python and spaCy", PyData Global 2020 Online
+<h1>Talks</h1>
+* 15-November-2020, "[Inventing Curriculum using Python and spaCy](https://www.youtube.com/watch?v=O6QeM_vC5KI)", PyData Global 2020 Online
 
 * 14-November-2020, "Python and FOSS in Education for Generation Z", PyCon Indonesia 2020 Online
 
 * 8-November-2020, "Investigating Digital Crimes in Smart Cities using Python", HoneyCon 2020 Online, Spain
 
-<h1>Talks</h1>
 * 4,5-November-2020, "Be Safe on Cyber Space", KLS Gogte Institute of Technology, India [Part-1](https://www.youtube.com/watch?v=dAdrL74sOjU) [Part-2](https://www.youtube.com/watch?v=ISzcTuNSnA4) [Slides](https://github.com/gcdeshpande/gcdeshpande.github.io/blob/master/slide/BeSafe.pdf)
 
 * 03-October-2020, "[Investigating Digital Crimes using Python](https://www.youtube.com/watch?v=0Jt-xm7kC2Y&t) ", PyCon ES 2020 Pandemic Edition [Slides](https://github.com/gcdeshpande/gcdeshpande.github.io/blob/master/slide/pycones.pdf)
@@ -32,7 +32,7 @@ author_profile: true
 * 15-September-2020, "[Building LinkedIn and GitHub Profiles for Better Career Opportunities](https://www.youtube.com/watch?v=ZMd7PVDfWxQ)", CSI Student Branch -GIT, Belagavi
 [Slides](https://github.com/gcdeshpande/gcdeshpande.github.io/blob/master/slide/CSI-Webinar.pdf)
 
-* 05-September-2020, "Computation Techniques for Encrypted Data", PyCon TW 2020, Taiwan [Slides](https://github.com/gcdeshpande/gcdeshpande.github.io/blob/master/slide/PyConTW.pdf)
+* 05-September-2020, "[Computation Techniques for Encrypted Data using Python](https://www.youtube.com/watch?v=AFPnHqthjGs)", PyCon TW 2020, Taiwan [Slides](https://github.com/gcdeshpande/gcdeshpande.github.io/blob/master/slide/PyConTW.pdf)
 
 * 04-September-2020, "[Deceptive Security using Python](https://www.youtube.com/watch?v=LYifJ0e1vbw)", PyCon AU 2020 Online, Australia [Slides](https://github.com/gcdeshpande/gcdeshpande.github.io/blob/master/slide/pyconAU.pdf)
 
