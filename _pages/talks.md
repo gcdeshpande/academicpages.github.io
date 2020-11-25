@@ -10,15 +10,18 @@ author_profile: true
 <h1>Upcoming Talks</h1>
 * 14-15, December, 2020, "Investigating Digital Crimes using Python", PyCon Tanzania 2020, Online
 
-* 5-6, December, 2020, "Python and FOSS in Education for Generation Z", PyConf Hyderabad 2020 - Virtual
+* 9-December-2020, "Investigating Digital Crimes using Python", PyCon Nigeria 2020, Online
+
+* 6-December, 2020, "Python and FOSS in Education for Generation Z", PyConf Hyderabad 2020 - Virtual
 
 * 5-December-2020, "Investigating Digital Crimes using Python", Pyjamas 2020 Online
 
+
+<h1>Talks</h1>
 * 19-November-2020, "Python and FOSS in Education for Generation Z", Geekle's python Universe WEB Edition Global Summit 
 
 * 19-November-2020, "Investigating Digital Crimes using Python", Geekle's python Universe WEB Edition Global Summit
 
-<h1>Talks</h1>
 * 15-November-2020, "[Inventing Curriculum using Python and spaCy](https://www.youtube.com/watch?v=O6QeM_vC5KI)", PyData Global 2020 Online
 
 * 14-November-2020, "Python and FOSS in Education for Generation Z", PyCon Indonesia 2020 Online
