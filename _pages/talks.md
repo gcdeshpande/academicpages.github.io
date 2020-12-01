@@ -10,6 +10,8 @@ author_profile: true
 <h1>Upcoming Talks</h1>
 * 14-15, December, 2020, "Investigating Digital Crimes using Python", PyCon Tanzania 2020, Online
 
+* 12-December-2020, "Investigating Digital Crimes using Python", PyDay BCN 2020, Online
+
 * 9-December-2020, "Investigating Digital Crimes using Python", PyCon Nigeria 2020, Online
 
 * 6-December, 2020, "Python and FOSS in Education for Generation Z", PyConf Hyderabad 2020 - Virtual
