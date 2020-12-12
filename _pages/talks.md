@@ -16,7 +16,7 @@ author_profile: true
 * 14-15, December, 2020, "Investigating Digital Crimes using Python", PyCon Tanzania 2020, Online
 
 <h1>Talks</h1>
-* 12-December-2020, "Investigating Digital Crimes using Python", PyDay BCN 2020, Online
+* 12-December-2020, "[Investigating Digital Crimes using Python](https://www.youtube.com/watch?v=LAQY4ucheQA)", PyDay BCN 2020, Online
 
 * 6-December, 2020, "Python and FOSS in Education for Generation Z", PyConf Hyderabad 2020 - Virtual
 
