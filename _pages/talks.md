@@ -11,12 +11,13 @@ author_profile: true
 * 13-February-2021, "Building website using Python and Django", DjangoGirls Belagavi, Online
 
 <h1>Upcoming Talks</h1>
+* 10-January-2021, "Python for Geo-Science", Online Webinar
+
 * 14-15, December, 2020, "Investigating Digital Crimes using Python", PyCon Tanzania 2020, Online
 
+<h1>Talks</h1>
 * 12-December-2020, "Investigating Digital Crimes using Python", PyDay BCN 2020, Online
 
-
-<h1>Talks</h1>
 * 6-December, 2020, "Python and FOSS in Education for Generation Z", PyConf Hyderabad 2020 - Virtual
 
 * 5-December-2020, "Investigating Digital Crimes using Python", Pyjamas 2020 Online
