@@ -10,12 +10,16 @@ author_profile: true
 <h1>Upcoming Workshops</h1>
 * 13-February-2021, "Building website using Python and Django", DjangoGirls Belagavi, Online
 
-<h1>Upcoming Talks</h1>
-* 10-January-2021, "Python for Geo-Science", Online Webinar
+* 10-January-2021, "Python for Geo-Science", Online
 
-* 14-15, December, 2020, "Investigating Digital Crimes using Python", PyCon Tanzania 2020, Online
+* 19-December-2020, "IndicNLP: Natural Language Processing for Indian Languages using Python", SciPy India 2020, IIT Bombay, Online
+
+<h1>Upcoming Talks</h1>
+* 20-December-2020, "Python and FOSS in Education for Generation Z", SciPy India 2020, IIT Bombay, Online
 
 <h1>Talks</h1>
+* 15-December-2020, "Investigating Digital Crimes using Python", PyCon Tanzania 2020, Online
+
 * 12-December-2020, "[Investigating Digital Crimes using Python](https://www.youtube.com/watch?v=LAQY4ucheQA)", PyDay BCN 2020, Online
 
 * 6-December, 2020, "Python and FOSS in Education for Generation Z", PyConf Hyderabad 2020 - Virtual
