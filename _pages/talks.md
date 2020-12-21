@@ -12,12 +12,12 @@ author_profile: true
 
 * 10-January-2021, "Python for Geo-Science", Online
 
-* 19-December-2020, "IndicNLP: Natural Language Processing for Indian Languages using Python", SciPy India 2020, IIT Bombay, Online
-
 <h1>Upcoming Talks</h1>
-* 20-December-2020, "Python and FOSS in Education for Generation Z", SciPy India 2020, IIT Bombay, Online
+On the way
 
 <h1>Talks</h1>
+* 20-December-2020, "Python and FOSS in Education for Generation Z", SciPy India 2020, IIT Bombay, Online
+
 * 15-December-2020, "Investigating Digital Crimes using Python", PyCon Tanzania 2020, Online
 
 * 12-December-2020, "[Investigating Digital Crimes using Python](https://www.youtube.com/watch?v=LAQY4ucheQA)", PyDay BCN 2020, Online
@@ -34,7 +34,7 @@ author_profile: true
 
 * 14-November-2020, "Python and FOSS in Education for Generation Z", PyCon Indonesia 2020 Online
 
-* 8-November-2020, "Investigating Digital Crimes in Smart Cities using Python", HoneyCon 2020 Online, Spain
+* 8-November-2020, "[Investigating Digital Crimes in Smart Cities using Python](https://www.youtube.com/watch?v=PQAOpUlBsF8)", HoneyCon 2020 Online, Spain
 
 * 4,5-November-2020, "Be Safe on Cyber Space", KLS Gogte Institute of Technology, India [Part-1](https://www.youtube.com/watch?v=dAdrL74sOjU) [Part-2](https://www.youtube.com/watch?v=ISzcTuNSnA4) [Slides](https://github.com/gcdeshpande/gcdeshpande.github.io/blob/master/slide/BeSafe.pdf)
 
@@ -101,6 +101,8 @@ author_profile: true
 * 25-July-2020, "[Python in Education for Generation Z](https://www.youtube.com/watch?v=hzABPEzM-pE)", PyOhio 2020 online, USA [Slides](https://github.com/gcdeshpande/gcdeshpande.github.io/blob/master/slide/PyOhio2020.pdf)
 
 <h1>Workshops</h1>
+* 19-December-2020, "IndicNLP: Natural Language Processing for Indian Languages using Python", SciPy India 2020, IIT Bombay, Online
+
 * 21,22-July-2020, Resource person for two day online Faculty Development Program on "Introduction to Julia Language", [Part-1](https://www.youtube.com/watch?v=ck3joyTo_jQ)  [Part-2](https://www.youtube.com/watch?v=-gKG-bokL34)  [Part-3](https://www.youtube.com/watch?v=pRjdIbiD3Mk)  [Part-4](https://www.youtube.com/watch?v=YVjO2hyxRX0)
 
 * 7,8-May-2020, Resource person for four day workshop on “Introduction to Python Programming and its Applications in Climate Smart Agriculture”, organized by ICAR-National Agricultural Higher Education Project (NAHEP), The Centre for Advanced Agricultural Science and Technology (CAAST), for Climate Smart Agriculture and Water Management (CSAWM) & The Rashtriya Krishi Vikas Yojana (RKVY) Project on Irrigation Water Requirement Advisory Service (IWRAS), Mahatma Phule Krishi Vidyapeeth (MPKV), Rahuri-413722, Ahmednagar (Maharashtra) 
