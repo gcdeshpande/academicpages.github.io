@@ -13,7 +13,7 @@ author_profile: true
 * 10-January-2021, "Python for Geo-Science", Online
 
 <h1>Upcoming Talks</h1>
-On the way
+6-7, February 2021, "Inventing Curriculum using Python and spaCy", FOSDEM 2021, Virtual
 
 <h1>Talks</h1>
 * 20-December-2020, "Python and FOSS in Education for Generation Z", SciPy India 2020, IIT Bombay, Online
@@ -22,7 +22,7 @@ On the way
 
 * 12-December-2020, "[Investigating Digital Crimes using Python](https://www.youtube.com/watch?v=LAQY4ucheQA)", PyDay BCN 2020, Online
 
-* 6-December, 2020, "Python and FOSS in Education for Generation Z", PyConf Hyderabad 2020 - Virtual
+* 6-December, 2020, "[Python and FOSS in Education for Generation Z](https://www.youtube.com/watch?v=GWsIxu4Vusw)", PyConf Hyderabad 2020 - Virtual
 
 * 5-December-2020, "Investigating Digital Crimes using Python", Pyjamas 2020 Online
 
