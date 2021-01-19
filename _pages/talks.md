@@ -103,7 +103,7 @@ author_profile: true
 <h1>Workshops</h1>
 * 10-January-2021, "Python for Geo-Science: An Emerging Tool for Geo Scientists", organized by Geo-Alumni and Department of Studies in Geology, Karnatak University Dhardwad India, Online
 
-* 19-December-2020, "IndicNLP: Natural Language Processing for Indian Languages using Python", SciPy India 2020, IIT Bombay, Online
+* 19-December-2020, "[IndicNLP: Natural Language Processing for Indian Languages using Python](https://www.youtube.com/watch?v=yr-h9XGyk9o)", SciPy India 2020, IIT Bombay, Online
 
 * 21,22-July-2020, Resource person for two day online Faculty Development Program on "Introduction to Julia Language", [Part-1](https://www.youtube.com/watch?v=ck3joyTo_jQ)  [Part-2](https://www.youtube.com/watch?v=-gKG-bokL34)  [Part-3](https://www.youtube.com/watch?v=pRjdIbiD3Mk)  [Part-4](https://www.youtube.com/watch?v=YVjO2hyxRX0)
 
