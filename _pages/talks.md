@@ -10,12 +10,12 @@ author_profile: true
 <h1>Upcoming Workshops</h1>
 * 13-February-2021, "Building website using Python and Django", DjangoGirls Belagavi, Online
 
-* 10-January-2021, "Python for Geo-Science", Online
-
 <h1>Upcoming Talks</h1>
 6-7, February 2021, "Inventing Curriculum using Python and spaCy", FOSDEM 2021, Virtual
 
 <h1>Talks</h1>
+* 18-January-2021, "How Companies are using Artificial Intelligence to Solve Problems", KLS IMER Belagavi, India
+
 * 20-December-2020, "Python and FOSS in Education for Generation Z", SciPy India 2020, IIT Bombay, Online
 
 * 15-December-2020, "Investigating Digital Crimes using Python", PyCon Tanzania 2020, Online
@@ -101,6 +101,8 @@ author_profile: true
 * 25-July-2020, "[Python in Education for Generation Z](https://www.youtube.com/watch?v=hzABPEzM-pE)", PyOhio 2020 online, USA [Slides](https://github.com/gcdeshpande/gcdeshpande.github.io/blob/master/slide/PyOhio2020.pdf)
 
 <h1>Workshops</h1>
+* 10-January-2021, "Python for Geo-Science: An Emerging Tool for Geo Scientists", organized by Geo-Alumni and Department of Studies in Geology, Karnatak University Dhardwad India, Online
+
 * 19-December-2020, "IndicNLP: Natural Language Processing for Indian Languages using Python", SciPy India 2020, IIT Bombay, Online
 
 * 21,22-July-2020, Resource person for two day online Faculty Development Program on "Introduction to Julia Language", [Part-1](https://www.youtube.com/watch?v=ck3joyTo_jQ)  [Part-2](https://www.youtube.com/watch?v=-gKG-bokL34)  [Part-3](https://www.youtube.com/watch?v=pRjdIbiD3Mk)  [Part-4](https://www.youtube.com/watch?v=YVjO2hyxRX0)
