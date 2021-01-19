@@ -11,7 +11,7 @@ author_profile: true
 * 13-February-2021, "Building website using Python and Django", DjangoGirls Belagavi, Online
 
 <h1>Upcoming Talks</h1>
-6-7, February 2021, "Inventing Curriculum using Python and spaCy", FOSDEM 2021, Virtual
+* 6-7, February 2021, "Inventing Curriculum using Python and spaCy", FOSDEM 2021, Virtual
 
 <h1>Talks</h1>
 * 18-January-2021, "How Companies are using Artificial Intelligence to Solve Problems", KLS IMER Belagavi, India
