@@ -7,7 +7,9 @@ author_profile: true
 <h1>Interviews</h1>
 11-October-2020, "[Teaching Online V/s Offline](https://www.youtube.com/watch?v=gPB0Pmd_sAU)", Life Loosened Up, Episode 6 
 
-
+<h1> Panelist</h1>
+* 17-June-2021, EuroPython - First Time Speaker Workshop
+* 29-April-2021, EuroPython - Ask Me Anything CfP
 
 <h1>Upcoming Talks</h1>
 * 28,29,30-July-2021, "Build Your First Cyber Forensic Application using Python", EuroPython 2021, Online 
