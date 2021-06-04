@@ -10,8 +10,25 @@ author_profile: true
 
 
 <h1>Upcoming Talks</h1>
+* 28,29,30-July-2021, "Build Your First Cyber Forensic Application using Python", EuroPython 2021, Online 
+
+* 28,29,30-July-2021, "Multilingual Natural Language Processing using Julia", JuliaCon 2021, Virtual
+
+* 3-July-2021, "Securing Django Applications", Django Congress Japan 2021, Online
+
+* 29,30-June-2021, "Build your First Cyber Forensic Application using Python", Geekle's Cyber Security Global Summit 2021, online
+
+* 19-June-2021, "Multilingual Natural Language Processing using Python", PyCon Colombia 2021, Online
+
+* 18-June-201, "Securing Django Applications", PyCon Namibia 2021, online
 
 <h1>Talks</h1>
+* 04-06-2021, "Securing Django Applications", DjangoCon Europe 2021, Online
+
+* 27-05-2021, "Build your First Cyber Forensic Application using Python", Conf42 Python 2021, Online
+
+* 25-March-2021, "Roadmap to Become Data Analyst and Data Scientist", Acharya Institute of Technology, Bengaluru, 
+
 * 6-7, February 2021, "Inventing Curriculum using Python and spaCy", FOSDEM 2021, Virtual
 
 * 30-January-2021, "IndicNLP: Natural Language Processing for Indian Languages", BelPy 2021, Virtual
@@ -103,6 +120,8 @@ author_profile: true
 * 25-July-2020, "[Python in Education for Generation Z](https://www.youtube.com/watch?v=hzABPEzM-pE)", PyOhio 2020 online, USA [Slides](https://github.com/gcdeshpande/gcdeshpande.github.io/blob/master/slide/PyOhio2020.pdf)
 
 <h1>Workshops</h1>
+* 7-April-2021, "Applications of Python in Data Science", KLS IMER, Belagavi
+
 * 19-March-2021, "IndicNLP: Natural Language Processing for Indian Languages", FOSSASIA 2021, Virtual
 
 * 10-January-2021, "Python for Geo-Science: An Emerging Tool for Geo Scientists", organized by Geo-Alumni and Department of Studies in Geology, Karnatak University Dhardwad India, Online
