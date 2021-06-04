@@ -7,6 +7,16 @@ author_profile: true
 * Deshpande G., Kulkarni S. (2019) [Modeling and Mitigation of XPath Injection Attacks for Web Services Using Modular Neural Networks](https://link.springer.com/chapter/10.1007/978-981-10-8639-7_31). In: Sa P., Bakshi S., Hatzilygeroudis I., Sahoo M. (eds) Recent Findings in Intelligent Computing Techniques. Advances in Intelligent Systems and Computing, vol 707. Springer, Singapore. Presented at ICACNI 2017, National Institute of Technology, Goa, India
 
 <h1>Posters</h1>
+* 14-16, July-2021, "Free and Open-Source Educational Software for Generation Z", CSTA Annual Conference 2021, USA Virtual
+
+* 12-18, July-2021, "Build Your First Cyber Forensic Application using Python", SciPy 2021, Virtual Conference, USA
+
+* 12-18, July-2021, "Multilingual Natural Language Processing using Python", SciPy 2021, Virtual Conference, USA
+
+* 12-18, July-2021, "Inventing Curriculum using Python and spaCy", SciPy 2021, Virtual Conference, USA
+
+* 16-May-2021, "Inventing Curriculum using Python and spaCy", PyCon US 2021, Online
+
 * 19-October-2020, "[Inventing Curriculum using Pointer-Generator Network](https://github.com/gcdeshpande/gcdeshpande.github.io/blob/master/slide/smiles_aidr_poster.pdf)", Artificial Intelligence for Data Discovery and Reuse (AIDR) Symposium 2020 Virtual, Carnegie Mellon University Libraries, USA
 
 * 16 to 21-August- 2020, "[Inventing Curriculum using Julia and Pointer-Generator Network](https://github.com/gcdeshpande/gcdeshpande.github.io/blob/master/slide/smiles_aidr_poster.pdf)", SMILES 2020 Online, Skoltech, Moscow Russia
