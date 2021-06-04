@@ -7,13 +7,15 @@ author_profile: true
 <h1>Interviews</h1>
 11-October-2020, "[Teaching Online V/s Offline](https://www.youtube.com/watch?v=gPB0Pmd_sAU)", Life Loosened Up, Episode 6 
 
-<h1>Upcoming Workshops</h1>
-* 13-February-2021, "Building website using Python and Django", DjangoGirls Belagavi, Online
+
 
 <h1>Upcoming Talks</h1>
-* 6-7, February 2021, "Inventing Curriculum using Python and spaCy", FOSDEM 2021, Virtual
 
 <h1>Talks</h1>
+* 6-7, February 2021, "Inventing Curriculum using Python and spaCy", FOSDEM 2021, Virtual
+
+* 30-January-2021, "IndicNLP: Natural Language Processing for Indian Languages", BelPy 2021, Virtual
+
 * 18-January-2021, "How Companies are using Artificial Intelligence to Solve Problems", KLS IMER Belagavi, India
 
 * 20-December-2020, "Python and FOSS in Education for Generation Z", SciPy India 2020, IIT Bombay, Online
@@ -101,6 +103,8 @@ author_profile: true
 * 25-July-2020, "[Python in Education for Generation Z](https://www.youtube.com/watch?v=hzABPEzM-pE)", PyOhio 2020 online, USA [Slides](https://github.com/gcdeshpande/gcdeshpande.github.io/blob/master/slide/PyOhio2020.pdf)
 
 <h1>Workshops</h1>
+* 19-March-2021, "IndicNLP: Natural Language Processing for Indian Languages", FOSSASIA 2021, Virtual
+
 * 10-January-2021, "Python for Geo-Science: An Emerging Tool for Geo Scientists", organized by Geo-Alumni and Department of Studies in Geology, Karnatak University Dhardwad India, Online
 
 * 19-December-2020, "[IndicNLP: Natural Language Processing for Indian Languages using Python](https://www.youtube.com/watch?v=yr-h9XGyk9o)", SciPy India 2020, IIT Bombay, Online
