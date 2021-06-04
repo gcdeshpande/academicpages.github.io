@@ -18,6 +18,8 @@ author_profile: true
 
 * 3-July-2021, "Securing Django Applications", Django Congress Japan 2021, Online
 
+* 25,26-June-2021, "Python and FOSS in Education for Generation Z", esLibre 2021, Online
+
 * 29,30-June-2021, "Build your First Cyber Forensic Application using Python", Geekle's Cyber Security Global Summit 2021, online
 
 * 19-June-2021, "Multilingual Natural Language Processing using Python", PyCon Colombia 2021, Online
