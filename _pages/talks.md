@@ -12,6 +12,8 @@ author_profile: true
 * 29-April-2021, EuroPython - Ask Me Anything CfP
 
 <h1>Upcoming Talks</h1>
+* 31-July-2021, "Python and FOSS in Education for Generation Z", COSCUP Taiwan
+
 * 28,29,30-July-2021, "Build Your First Cyber Forensic Application using Python", EuroPython 2021, Online 
 
 * 28,29,30-July-2021, "Multilingual Natural Language Processing using Julia", JuliaCon 2021, Virtual
