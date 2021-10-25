@@ -23,13 +23,13 @@ author_profile: true
 
 * 15-October-2021, "Multilingual Natural Language Processing using Python", PyCon JP 2021, Japan
 
-* 10-September-2021, "Time Series Forecasting Techniques in Python", PyCon AU 2021, Australia
-
 * 09-October-2021, "Securing Django Applications", PyCon HK 2021, Hong Kong Online
 
 * 07-October-2021, "Build Your First Cyber Forensic Application using Python", PyCon ZA 2021, South Africa
 
 * 02-October-2021, "Securing Django Applications", PyGotham TV 2021, USA, Online
+
+* 10-September-2021, "Time Series Forecasting Techniques in Python", PyCon AU 2021, Australia
 
 * 31-July-2021, "Python and FOSS in Education for Generation Z", COSCUP Taiwan
 
