@@ -14,21 +14,22 @@ author_profile: true
 <h1>Upcoming Talks</h1>
 
 <h1>Talks</h1>
-* 09-October-2021, "Securing Django Applications", PyCon HK 2021
 
-* 23-October-2021, "Securing Django Applications", DjangoCon US 2021
+* 28-October-2021, "Multilingual Natural Language Processing using Python", AI DevWorld 2021 Online
 
-* 02-October-2021, "Securing Django Applications" at PyGotham TV 2021
+* 23-October-2021, "Securing Django Applications", DjangoCon US 2021, USA, Online
 
-* "Multilingual Natural Language Processing using Python" at PyCon Japan 2021 from 15th October 2021 to 16th October 2021
+* 22-October-2021, "Security Considerations in Python Packaging", PyCon SE 2021, Sweden
 
-* "Multilingual Natural Language Processing using Python" at AI DevWorld 2021 from 26th October 2021 to 28th October 2021
+* 15-October-2021, "Multilingual Natural Language Processing using Python", PyCon JP 2021, Japan
 
-* "Build Your First Cyber Forensic Application using Python" at PyCon South Africa 2021 on 7th October 2021 to 8th October 2021"
+* 10-September-2021, "Time Series Forecasting Techniques in Python", PyCon AU 2021, Australia
 
-* "Time Series Forecasting Techniques in Python" at PyCon Australia 2021 on 10th September 2021
+* 09-October-2021, "Securing Django Applications", PyCon HK 2021, Hong Kong Online
 
-* "Security Considerations in Python Packaging" at PyCon Sweden 2021 on 22nd October 2021"
+* 07-October-2021, "Build Your First Cyber Forensic Application using Python", PyCon ZA 2021, South Africa
+
+* 02-October-2021, "Securing Django Applications", PyGotham TV 2021, USA, Online
 
 * 31-July-2021, "Python and FOSS in Education for Generation Z", COSCUP Taiwan
 
