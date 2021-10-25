@@ -27,6 +27,8 @@ author_profile: true
 
 * 07-October-2021, "Build Your First Cyber Forensic Application using Python", PyCon ZA 2021, South Africa
 
+* 02-October-2021, "Build Your First Cyber Forensic Application using Python", PyCon TW 2021, Taiwan, Online 
+
 * 02-October-2021, "Securing Django Applications", PyGotham TV 2021, USA, Online
 
 * 10-September-2021, "Time Series Forecasting Techniques in Python", PyCon AU 2021, Australia
