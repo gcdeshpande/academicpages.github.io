@@ -12,6 +12,24 @@ author_profile: true
 * 29-April-2021, EuroPython - Ask Me Anything CfP
 
 <h1>Upcoming Talks</h1>
+
+<h1>Talks</h1>
+* 09-October-2021, "Securing Django Applications", PyCon HK 2021
+
+* 23-October-2021, "Securing Django Applications", DjangoCon US 2021
+
+* 02-October-2021, "Securing Django Applications" at PyGotham TV 2021
+
+* "Multilingual Natural Language Processing using Python" at PyCon Japan 2021 from 15th October 2021 to 16th October 2021
+
+* "Multilingual Natural Language Processing using Python" at AI DevWorld 2021 from 26th October 2021 to 28th October 2021
+
+* "Build Your First Cyber Forensic Application using Python" at PyCon South Africa 2021 on 7th October 2021 to 8th October 2021"
+
+* "Time Series Forecasting Techniques in Python" at PyCon Australia 2021 on 10th September 2021
+
+* "Security Considerations in Python Packaging" at PyCon Sweden 2021 on 22nd October 2021"
+
 * 31-July-2021, "Python and FOSS in Education for Generation Z", COSCUP Taiwan
 
 * 28,29,30-July-2021, "Build Your First Cyber Forensic Application using Python", EuroPython 2021, Online 
@@ -28,8 +46,7 @@ author_profile: true
 
 * 18-June-201, "Securing Django Applications", PyCon Namibia 2021, online
 
-<h1>Talks</h1>
-* 04-06-2021, "Securing Django Applications", DjangoCon Europe 2021, Online
+* 04-June-2021, "Securing Django Applications", DjangoCon Europe 2021, Online
 
 * 27-05-2021, "Build your First Cyber Forensic Application using Python", Conf42 Python 2021, Online
 
@@ -126,6 +143,8 @@ author_profile: true
 * 25-July-2020, "[Python in Education for Generation Z](https://www.youtube.com/watch?v=hzABPEzM-pE)", PyOhio 2020 online, USA [Slides](https://github.com/gcdeshpande/gcdeshpande.github.io/blob/master/slide/PyOhio2020.pdf)
 
 <h1>Workshops</h1>
+* 17-September-2021, "IndicNLP: Natural Language Processing for Indian Languages" at PyCon India 2021
+
 * 7-April-2021, "Applications of Python in Data Science", KLS IMER, Belagavi
 
 * 19-March-2021, "IndicNLP: Natural Language Processing for Indian Languages", FOSSASIA 2021, Virtual
