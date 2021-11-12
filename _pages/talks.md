@@ -18,6 +18,18 @@ author_profile: true
 
 * 04-December-2021, "Build Your First Cyber Forensic Application using Python", Pyjamas Conf 2021
 
+* 25-November-2021, "Python in Education for Generation Z", XtremePython 2021, Israel, Online
+
+* 20,21-November-2021, "Build Your First Cyber Forensic Application using Python", PyCon APAC 2021, Thailand Online
+
+* 13,14-November-2021, "Securing Django Applications", FOSSCOMM 2021, University of Macedonia, Greece, Online
+
+* 13,14-November-2021, "Python in Education for Generation Z", FOSSCOMM 2021, University of Macedonia, Greece, Online
+
+* 13,14-November-2021, "Multilingual Natural Language Processing using Python", FOSSCOMM 2021, University of Macedonia, Greece, Online
+
+* 13,14-November-2021, "Build Your First Cyber Forensic Application using Python", FOSSCOMM 2021, University of Macedonia, Greece, Online
+
 * 13-November-2021, "Security considerations in Python Packaging", HoneyCON21, Spain, Online
 
 <h1>Talks</h1>
