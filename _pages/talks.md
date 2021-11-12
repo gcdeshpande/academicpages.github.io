@@ -12,6 +12,13 @@ author_profile: true
 * 29-April-2021, EuroPython - Ask Me Anything CfP
 
 <h1>Upcoming Talks</h1>
+* 04-December-2021, "Securing Django Applications", Pyjamas Conf 2021
+
+* 04-December-2021, "Security considerations in Python Packaging", Pyjamas Conf 2021
+
+* 04-December-2021, "Build Your First Cyber Forensic Application using Python", Pyjamas Conf 2021
+
+* 13-November-2021, "Security considerations in Python Packaging", HoneyCON21, Spain, Online
 
 <h1>Talks</h1>
 
