@@ -12,6 +12,13 @@ author_profile: true
 * 29-April-2021, EuroPython - Ask Me Anything CfP
 
 <h1>Upcoming Talks</h1>
+* 5,6-February-2022, Security Considerations in Python Packaging, PyCascades 2022, Online
+
+* 21-25-March-2022, Securing Django Applications, Python Web Conference 2022, Online
+
+<h1>Talks</h1>
+
+* 11-December-2021, "Security Considerations in Python Packaging", Python Pizza Hamburg, Online
 
 * 04-December-2021, "Securing Django Applications", Pyjamas Conf 2021
 
@@ -23,8 +30,6 @@ author_profile: true
 
 * 20,21-November-2021, "Build Your First Cyber Forensic Application using Python", PyCon APAC 2021, Thailand Online
 
-* 13,14-November-2021, "Securing Django Applications", FOSSCOMM 2021, University of Macedonia, Greece, Online
-
 * 13,14-November-2021, "Python in Education for Generation Z", FOSSCOMM 2021, University of Macedonia, Greece, Online
 
 * 13,14-November-2021, "Multilingual Natural Language Processing using Python", FOSSCOMM 2021, University of Macedonia, Greece, Online
@@ -32,8 +37,6 @@ author_profile: true
 * 13,14-November-2021, "Build Your First Cyber Forensic Application using Python", FOSSCOMM 2021, University of Macedonia, Greece, Online
 
 * 13-November-2021, "Security considerations in Python Packaging", HoneyCON21, Spain, Online
-
-<h1>Talks</h1>
 
 * 28-October-2021, "Multilingual Natural Language Processing using Python", AI DevWorld 2021 Online
 
