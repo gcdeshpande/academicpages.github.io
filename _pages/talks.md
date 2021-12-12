@@ -12,9 +12,9 @@ author_profile: true
 * 29-April-2021, EuroPython - Ask Me Anything CfP
 
 <h1>Upcoming Talks</h1>
-* 5,6-February-2022, Security Considerations in Python Packaging, PyCascades 2022, Online
-
 * 21-25-March-2022, Securing Django Applications, Python Web Conference 2022, Online
+
+* 5,6-February-2022, Security Considerations in Python Packaging, PyCascades 2022, Online
 
 <h1>Talks</h1>
 
