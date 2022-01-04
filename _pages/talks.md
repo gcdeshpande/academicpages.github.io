@@ -9,12 +9,18 @@ author_profile: true
 
 <h1> Panelist</h1>
 * 17-June-2021, EuroPython - First Time Speaker Workshop
+
 * 29-April-2021, EuroPython - Ask Me Anything CfP
 
 <h1>Upcoming Talks</h1>
-* 21-25-March-2022, Securing Django Applications, Python Web Conference 2022, Online
+* 7-January-2022, Blockchain and its applications in Engineering, IEEE ATEES Workshop, KLS Gogte Institute of Technology, India, Online
+
+* 27-January-2022, Security Considerations in Python Packaging" Python 2022 by Conf42.com, Online 
 
 * 5,6-February-2022, Security Considerations in Python Packaging, PyCascades 2022, Online
+
+* 21-25-March-2022, Securing Django Applications, Python Web Conference 2022, Online
+
 
 <h1>Talks</h1>
 
@@ -169,6 +175,8 @@ author_profile: true
 1. 25-July-2020, "[Python in Education for Generation Z](https://www.youtube.com/watch?v=hzABPEzM-pE)", PyOhio 2020 online, USA [Slides](https://github.com/gcdeshpande/gcdeshpande.github.io/blob/master/slide/PyOhio2020.pdf)
 
 <h1>Workshops</h1>
+* 16,17-December-2021, "Hands-on Workshop on Cyber Security", Angadi Institute of Technology and Management, Belagavi, India
+
 * 17-September-2021, "IndicNLP: Natural Language Processing for Indian Languages" at PyCon India 2021
 
 * 7-April-2021, "Applications of Python in Data Science", KLS IMER, Belagavi
