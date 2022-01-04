@@ -160,13 +160,13 @@ author_profile: true
 *	Alumni Meet 2011, “Opportunities in Higher Education”, KLSVPP, Belagavi
 
 <h1>Lightning Talks</h1>
-* 31-July-2020, "[Julia in Education for Generation Z](https://www.youtube.com/watch?v=qX5_nIXy53o)", JuliaCon 2020 online, Portugal [Slides](https://github.com/gcdeshpande/gcdeshpande.github.io/blob/master/slide/JuliaCon%202020%20EduGen%20Z.pdf) 
+4. 31-July-2020, "[Julia in Education for Generation Z](https://www.youtube.com/watch?v=qX5_nIXy53o)", JuliaCon 2020 online, Portugal [Slides](https://github.com/gcdeshpande/gcdeshpande.github.io/blob/master/slide/JuliaCon%202020%20EduGen%20Z.pdf) 
 
-* 30-July-2020, "[Computation Techniques for Encrypted Data](https://www.youtube.com/watch?v=F1arZCsspdY)", JuliaCon 2020 online, Portugal [Slides](https://github.com/gcdeshpande/gcdeshpande.github.io/blob/master/slide/JuliaCon%202020%20EncData.pdf) 
+3. 30-July-2020, "[Computation Techniques for Encrypted Data](https://www.youtube.com/watch?v=F1arZCsspdY)", JuliaCon 2020 online, Portugal [Slides](https://github.com/gcdeshpande/gcdeshpande.github.io/blob/master/slide/JuliaCon%202020%20EncData.pdf) 
 
-* 28-July-2020, "[Computation Techniques for Encrypted Data using Python](https://www.youtube.com/watch?v=Tfscs1MoEt0)", BuzzConf 2020 online, Argentina [Slides](https://github.com/gcdeshpande/gcdeshpande.github.io/blob/master/slide/BuzzConf2020.pdf)
+2. 28-July-2020, "[Computation Techniques for Encrypted Data using Python](https://www.youtube.com/watch?v=Tfscs1MoEt0)", BuzzConf 2020 online, Argentina [Slides](https://github.com/gcdeshpande/gcdeshpande.github.io/blob/master/slide/BuzzConf2020.pdf)
 
-* 25-July-2020, "[Python in Education for Generation Z](https://www.youtube.com/watch?v=hzABPEzM-pE)", PyOhio 2020 online, USA [Slides](https://github.com/gcdeshpande/gcdeshpande.github.io/blob/master/slide/PyOhio2020.pdf)
+1. 25-July-2020, "[Python in Education for Generation Z](https://www.youtube.com/watch?v=hzABPEzM-pE)", PyOhio 2020 online, USA [Slides](https://github.com/gcdeshpande/gcdeshpande.github.io/blob/master/slide/PyOhio2020.pdf)
 
 <h1>Workshops</h1>
 * 17-September-2021, "IndicNLP: Natural Language Processing for Indian Languages" at PyCon India 2021
