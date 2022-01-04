@@ -175,6 +175,8 @@ author_profile: true
 1. 25-July-2020, "[Python in Education for Generation Z](https://www.youtube.com/watch?v=hzABPEzM-pE)", PyOhio 2020 online, USA [Slides](https://github.com/gcdeshpande/gcdeshpande.github.io/blob/master/slide/PyOhio2020.pdf)
 
 <h1>Workshops</h1>
+* 22-31, December-2021, "Basic Web Designing Workshop", Eyesec Cyber Security Solutions, Belagavi, Online
+
 * 16,17-December-2021, "Hands-on Workshop on Cyber Security", Angadi Institute of Technology and Management, Belagavi, India
 
 * 17-September-2021, "IndicNLP: Natural Language Processing for Indian Languages" at PyCon India 2021
