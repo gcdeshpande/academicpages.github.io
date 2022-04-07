@@ -14,7 +14,7 @@ author_profile: true
 
 <h1>Upcoming Talks</h1>
 
-* 13-April-2022, "Securing Django Applications", PyCon DE and PyData Berlin, Berlin Congress Centre, Online
+* 13-April-2022, "Securing Django Applications", PyCon DE and PyData Berlin 2022, Berlin Congress Centre, Online
 
 
 <h1>Talks</h1>
