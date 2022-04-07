@@ -8,6 +8,8 @@ author_profile: true
 11-October-2020, "[Teaching Online V/s Offline](https://www.youtube.com/watch?v=gPB0Pmd_sAU)", Life Loosened Up, Episode 6 
 
 <h1> Panelist</h1>
+* 23-March-2022, EuroPython - Speaker Mentorship AMA Session
+
 * 17-June-2021, EuroPython - First Time Speaker Workshop
 
 * 29-April-2021, EuroPython - Ask Me Anything CfP
