@@ -26,11 +26,13 @@ author_profile: true
 
 * 21-25-March-2022, Securing Django Applications, Python Web Conference 2022, Online
 
-* 16, February-2022, Security Considerations in Python Packaging, PyCon Iran 2022, Online
+* 16-February-2022, Security Considerations in Python Packaging, PyCon Iran 2022, Online
 
 * 5,6-February-2022, Security Considerations in Python Packaging, PyCascades 2022, Online
 
 * 27-January-2022, Security Considerations in Python Packaging" Python 2022 by Conf42.com, Online 
+
+* 21, 22-January-2022, Security Considerations in Python Packaging", SciPy India 2021, IIT Bombay, Online 
 
 * 7-January-2022, Blockchain and its applications in Engineering, IEEE ATEES Workshop, KLS Gogte Institute of Technology, India, Online
 
