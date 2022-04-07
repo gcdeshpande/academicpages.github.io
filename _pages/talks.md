@@ -13,16 +13,26 @@ author_profile: true
 * 29-April-2021, EuroPython - Ask Me Anything CfP
 
 <h1>Upcoming Talks</h1>
-* 7-January-2022, Blockchain and its applications in Engineering, IEEE ATEES Workshop, KLS Gogte Institute of Technology, India, Online
 
-* 27-January-2022, Security Considerations in Python Packaging" Python 2022 by Conf42.com, Online 
 
-* 5,6-February-2022, Security Considerations in Python Packaging, PyCascades 2022, Online
 
-* 21-25-March-2022, Securing Django Applications, Python Web Conference 2022, Online
+
+
+
 
 
 <h1>Talks</h1>
+
+
+* 21-25-March-2022, Securing Django Applications, Python Web Conference 2022, Online
+
+* 16, February-2022, Security Considerations in Python Packaging, PyCon Iran 2022, Online
+
+* 5,6-February-2022, Security Considerations in Python Packaging, PyCascades 2022, Online
+
+* 27-January-2022, Security Considerations in Python Packaging" Python 2022 by Conf42.com, Online 
+
+* 7-January-2022, Blockchain and its applications in Engineering, IEEE ATEES Workshop, KLS Gogte Institute of Technology, India, Online
 
 * 11-December-2021, "Security Considerations in Python Packaging", Python Pizza Hamburg, Online
 
