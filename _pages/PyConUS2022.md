@@ -6,16 +6,14 @@ author_profile: true
 ---
 
 <h1> Poster </h1>
-will be uploaded on Sunday
+[PDF](https://github.com/gcdeshpande/gcdeshpande.github.io/blob/master/PyCon.pdf)
 
-<h1>Poster Slides</h1>
-[Click Here for Slides](https://github.com/gcdeshpande/gcdeshpande.github.io/blob/master/SciPy2020.pdf)
-
-<h1> YouTube Video Link </h1>
-will be uploaded soon
 
 <h1> Repository Link </h1>
-will be uploaded soon
+[Click here to access the source code and dataset](https://github.com/gcdeshpande/Inclusive-Language-using-Python)
 
 <h1> Contributors </h1>
-will be uploaded soon
+-Gajendra Deshpande
+-Soundarya Khanapur
+-Sayali Divekar
+-Nandita Thakkannavar
