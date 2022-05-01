@@ -13,7 +13,8 @@ author_profile: true
 [Click here to access the source code and dataset](https://github.com/gcdeshpande/Inclusive-Language-using-Python)
 
 <h1> Contributors </h1>
--Gajendra Deshpande
--Soundarya Khanapur
--Sayali Divekar
--Nandita Thakkannavar
+-Gajendra Deshpande   
+-Soundarya Khanapur    
+-Sayali Divekar    
+-Nandita Thakkannavar    
+
