@@ -16,11 +16,12 @@ author_profile: true
 
 <h1>Upcoming Talks</h1>
 
-* 13-April-2022, "Securing Django Applications", PyCon DE and PyData Berlin 2022, Berlin Congress Centre, Online
 
 
 <h1>Talks</h1>
+* 14-June-2022, "Introduction to Version Control and Open Source Contributions", IEEE Student Branch and IEEE WIE Affinity Group at KLS Gogte Institute of Technology, India
 
+* 13-April-2022, "Securing Django Applications", PyCon DE and PyData Berlin 2022, Berlin Congress Centre, Online
 
 * 21-25-March-2022, Securing Django Applications, Python Web Conference 2022, Online
 
