@@ -7,7 +7,7 @@ author_profile: true
 * Deshpande G., Kulkarni S. (2019) [Modeling and Mitigation of XPath Injection Attacks for Web Services Using Modular Neural Networks](https://link.springer.com/chapter/10.1007/978-981-10-8639-7_31). In: Sa P., Bakshi S., Hatzilygeroudis I., Sahoo M. (eds) Recent Findings in Intelligent Computing Techniques. Advances in Intelligent Systems and Computing, vol 707. Springer, Singapore. Presented at ICACNI 2017, National Institute of Technology, Goa, India
 
 <h1>Posters</h1>
-* 27, April - 3 May 2022, "Ensuring Inclusive Language in Speech and Writings", PyCon US 2022, USA
+* 27, April - 3 May 2022, "[Ensuring Inclusive Language in Speech and Writings](https://us.pycon.org/2022/schedule/posters/list/)", PyCon US 2022, USA
 
 * 14-16, July-2021, "Free and Open-Source Educational Software for Generation Z", CSTA Annual Conference 2021, USA Virtual
 
