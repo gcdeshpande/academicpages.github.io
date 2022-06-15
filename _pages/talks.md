@@ -14,8 +14,15 @@ author_profile: true
 
 * 29-April-2021, EuroPython - Ask Me Anything CfP
 
-<h1>Upcoming Talks</h1>
+<h1>Upcoming Workshops</h1>
+* 11-July-2022, "Three Musketeers: Sherlock Holmes, Mathematics and Python", EuroPython 2022, Dublin, Ireland
 
+* 20,21-June-2022, "Introduction to Cyber Security", KLS Vishwanathrao Deshpande Institute of Technology, Haliyal
+
+<h1>Upcoming Talks</h1>
+* 3,4-September-2022, "PRIMM: An effective model for teaching Python", PyCon APAC 2022, Taiwan, Online
+
+* 9,10-July-2022, “Ensuring Inclusive Language in Speech and Writings using Python”, PyCon Columbia 2022, Online
 
 
 <h1>Talks</h1>
