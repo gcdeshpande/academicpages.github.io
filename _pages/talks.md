@@ -28,7 +28,7 @@ author_profile: true
 <h1>Talks</h1>
 * 14-June-2022, "Introduction to Version Control and Open Source Contributions", IEEE Student Branch and IEEE WIE Affinity Group at KLS Gogte Institute of Technology, India
 
-* 13-April-2022, "Securing Django Applications", PyCon DE and PyData Berlin 2022, Berlin Congress Centre, Online
+* 13-April-2022, "[Securing Django Applications](https://www.youtube.com/watch?v=d0vzeb_viwU)", PyCon DE and PyData Berlin 2022, Berlin Congress Centre, Online
 
 * 21-25-March-2022, Securing Django Applications, Python Web Conference 2022, Online
 
@@ -64,7 +64,7 @@ author_profile: true
 
 * 28-October-2021, "Multilingual Natural Language Processing using Python", AI DevWorld 2021 Online
 
-* 23-October-2021, "Securing Django Applications", DjangoCon US 2021, USA, Online
+* 23-October-2021, "[Securing Django Applications](https://www.youtube.com/watch?v=XDvm-y_JhTU)", DjangoCon US 2021, USA, Online
 
 * 22-October-2021, "Security Considerations in Python Packaging", PyCon SE 2021, Sweden
 
@@ -74,15 +74,15 @@ author_profile: true
 
 * 07-October-2021, "Build Your First Cyber Forensic Application using Python", PyCon ZA 2021, South Africa
 
-* 02-October-2021, "Build Your First Cyber Forensic Application using Python", PyCon TW 2021, Taiwan, Online 
+* 02-October-2021, "[Build Your First Cyber Forensic Application using Python](https://www.youtube.com/watch?v=nQWOwItvlDo)", PyCon TW 2021, Taiwan, Online 
 
 * 02-October-2021, "Securing Django Applications", PyGotham TV 2021, USA, Online
 
-* 10-September-2021, "Time Series Forecasting Techniques in Python", PyCon AU 2021, Australia
+* 10-September-2021, "[Time Series Forecasting Techniques in Python](https://www.youtube.com/watch?v=uBvVfpkIdIc)", PyCon AU 2021, Australia
 
 * 31-July-2021, "Python and FOSS in Education for Generation Z", COSCUP Taiwan
 
-* 28,29,30-July-2021, "Build Your First Cyber Forensic Application using Python", EuroPython 2021, Online 
+* 28,29,30-July-2021, "[Build Your First Cyber Forensic Application using Python](https://www.youtube.com/watch?v=zXF4vWuhFi8)", EuroPython 2021, Online 
 
 * 28,29,30-July-2021, "Multilingual Natural Language Processing using Julia", JuliaCon 2021, Virtual
 
@@ -92,11 +92,11 @@ author_profile: true
 
 * 29,30-June-2021, "Build your First Cyber Forensic Application using Python", Geekle's Cyber Security Global Summit 2021, online
 
-* 19-June-2021, "Multilingual Natural Language Processing using Python", PyCon Colombia 2021, Online
+* 19-June-2021, "[Multilingual Natural Language Processing using Python](https://www.youtube.com/watch?v=ORRMYyPzgLU)", PyCon Colombia 2021, Online
 
 * 18-June-201, "Securing Django Applications", PyCon Namibia 2021, online
 
-* 04-June-2021, "Securing Django Applications", DjangoCon Europe 2021, Online
+* 04-June-2021, "[Securing Django Applications](https://www.youtube.com/watch?v=l72oSj6J_xU)", DjangoCon Europe 2021, Online
 
 * 27-05-2021, "Build your First Cyber Forensic Application using Python", Conf42 Python 2021, Online
 
